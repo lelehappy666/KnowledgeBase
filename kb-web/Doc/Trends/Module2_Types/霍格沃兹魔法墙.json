@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "name": "霍格沃兹魔法墙",
+    "code": "HW_MAGIC_WALL_001"
+  },
+  "classification": {
+    "interactionMethod": [
+      "体感",
+      "投影互动",
+      "触摸感应"
+    ],
+    "contentType": [
+      "科普",
+      "游戏化互动",
+      "魔幻主题体验"
+    ],
+    "experienceType": [
+      "参与型",
+      "视觉互动"
+    ]
+  },
+  "technical": {
+    "complexity": "Medium",
+    "difficulty": 4,
+    "developmentCycle": "1-3个月",
+    "techRequirements": [
+      "互动投影技术",
+      "动作/触摸感应",
+      "实时渲染动画",
+      "音响效果同步"
+    ]
+  },
+  "experience": {
+    "interactionDepth": "中度互动",
+    "participantCount": "1-10人",
+    "duration": "1-5分钟/人",
+    "learningCurve": "简单学习"
+  },
+  "application": {
+    "spaceRequirements": [
+      "中型空间",
+      "大型展厅"
+    ],
+    "themes": [],
+    "scenarios": [
+      "常设展览",
+      "主题博物馆展厅",
+      "商业互动装置",
+      "科技馆科普展示"
+    ],
+    "audience": [
+      "儿童",
+      "青少年",
+      "成人"
+    ]
+  },
+  "cost": {
+    "costRange": "15-50万",
+    "maintenanceCost": "Medium",
+    "updateFrequency": "中等更新"
+  },
+  "relations": {
+    "typicalCases": [],
+    "bestPractices": [],
+    "commonIssues": [],
+    "predecessors": [],
+    "similarTypes": [],
+    "complementaryTypes": []
+  },
+  "design": {
+    "designGuide": "墙面宽度控制在4-10米，结合动态动画与现实感投影内容，简洁导航与提示语设计，符合霍格沃兹主题美术风格。",
+    "layoutSuggestions": "整体互动区与投影墙保持3-5米距离，留出等待/排队及互动区，必要时设置护栏与角撑以保证安全。",
+    "safetySpecs": [
+      "防触电与电源保护",
+      "设备与墙体固定安全",
+      "光线与投影设备防护"
+    ],
+    "accessibility": "无障碍设计，注意不同身高参与者的感应覆盖，适配轮椅等辅助设备。"
+  },
+  "evaluation": {
+    "experienceStandard": "互动反应时间低于0.1秒，动画效果流畅、反馈明确。",
+    "educationStandard": "信息简洁、视觉与声音提示清晰，有助于对魔法元素的理解。",
+    "technicalStandard": "触摸/手势感应精准度高，投影与音效无明显延迟。"
+  },
+  "id": "bb2ca844-19b1-4e65-983d-4d30e121ac7f",
+  "updatedAt": "2026-01-06T03:08:21.134Z"
+}

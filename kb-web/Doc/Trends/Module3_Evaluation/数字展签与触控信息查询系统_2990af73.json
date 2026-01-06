@@ -1,0 +1,38 @@
+{
+  "target": {
+    "type": "Exhibit",
+    "name": "数字展签与触控信息查询系统",
+    "refId": "EXHIBIT-003"
+  },
+  "scores": {
+    "experience": 3,
+    "understanding": 5,
+    "scientific": 4,
+    "maintainability": 5,
+    "innovation": 3,
+    "replicability": 5
+  },
+  "cost": {
+    "range": "10-40万",
+    "currency": "CNY",
+    "details": "触控一体机、基础交互程序、内容整理"
+  },
+  "analysis": {
+    "pros": [
+      "显著提升展品信息理解深度",
+      "维护成本低，稳定性高"
+    ],
+    "cons": [
+      "互动形式相对传统",
+      "吸引力依赖内容质量"
+    ],
+    "summary": "适合传统博物馆数字化升级与常设展厅。"
+  },
+  "tags": [
+    "触控互动",
+    "数字展签",
+    "博物馆"
+  ],
+  "id": "2990af73-fd80-410d-bb65-72f17caecf77",
+  "updatedAt": "2026-01-06T03:18:12.120Z"
+}

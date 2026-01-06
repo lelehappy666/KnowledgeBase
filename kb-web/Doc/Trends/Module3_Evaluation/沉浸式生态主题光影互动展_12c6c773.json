@@ -1,0 +1,38 @@
+{
+  "target": {
+    "type": "Exhibit",
+    "name": "沉浸式生态主题光影互动展",
+    "refId": "EXHIBIT-002"
+  },
+  "scores": {
+    "experience": 4,
+    "understanding": 4,
+    "scientific": 5,
+    "maintainability": 3,
+    "innovation": 4,
+    "replicability": 2
+  },
+  "cost": {
+    "range": "80-200万",
+    "currency": "CNY",
+    "details": "多投影系统、实时渲染服务器、互动传感设备"
+  },
+  "analysis": {
+    "pros": [
+      "科普与体验结合紧密",
+      "增强环保与生态保护认知"
+    ],
+    "cons": [
+      "内容更新成本高",
+      "技术系统较复杂"
+    ],
+    "summary": "适合科技馆、海洋馆等高端主题展馆。"
+  },
+  "tags": [
+    "生态科普",
+    "沉浸式",
+    "光影互动"
+  ],
+  "id": "12c6c773-95c2-4d3e-9033-81de3d48dfeb",
+  "updatedAt": "2026-01-06T03:18:03.418Z"
+}

@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "name": "机械臂交互",
+    "code": "TYPE_ROBOT_ARM_003"
+  },
+  "classification": {
+    "interactionMethod": [
+      "物理运动交互",
+      "传感反馈",
+      "视觉/触觉联动"
+    ],
+    "contentType": [
+      "科技展示",
+      "互动演示",
+      "创意体验"
+    ],
+    "experienceType": [
+      "参与型",
+      "动觉交互"
+    ]
+  },
+  "technical": {
+    "complexity": "High",
+    "difficulty": 5,
+    "developmentCycle": "2-4个月",
+    "techRequirements": [
+      "高精度机械臂",
+      "实时运动控制",
+      "力/视觉传感集成"
+    ]
+  },
+  "experience": {
+    "interactionDepth": "高度互动",
+    "participantCount": "1-3人",
+    "duration": "2-6分钟/互动",
+    "learningCurve": "中等"
+  },
+  "application": {
+    "spaceRequirements": [
+      "大型空间",
+      "机械臂工作区"
+    ],
+    "themes": [],
+    "scenarios": [
+      "科普互动",
+      "工业科技展示",
+      "创意装置"
+    ],
+    "audience": [
+      "青少年",
+      "成人"
+    ]
+  },
+  "cost": {
+    "costRange": "30-80万",
+    "maintenanceCost": "High",
+    "updateFrequency": "中等"
+  },
+  "relations": {
+    "typicalCases": [],
+    "bestPractices": [],
+    "commonIssues": [],
+    "predecessors": [],
+    "similarTypes": [],
+    "complementaryTypes": []
+  },
+  "design": {
+    "designGuide": "机械臂应配合视觉/触觉反馈设计，使交互更直观。内容可包含绘图、协作任务或动态演示。",
+    "layoutSuggestions": "机械臂安全工作区周边设置防护区域，防止误入碰撞。",
+    "safetySpecs": [
+      "急停按钮与碰撞检测",
+      "安全围栏与传感约束"
+    ],
+    "accessibility": "控制界面提示清晰，并可适配不同操作习惯用户。"
+  },
+  "evaluation": {
+    "experienceStandard": "动作平滑、指令响应及时。",
+    "educationStandard": "可解释机械运动原理，提高科普价值。",
+    "technicalStandard": "位置重复精度高、传感与运动控制协同良好。"
+  },
+  "id": "465bce1f-46a6-4ba2-9e87-abc04fbd3611",
+  "updatedAt": "2026-01-06T02:50:10.952Z"
+}

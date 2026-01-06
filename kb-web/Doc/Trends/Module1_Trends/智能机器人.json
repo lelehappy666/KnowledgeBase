@@ -1,0 +1,81 @@
+{
+  "basic": {
+    "name": "智能机器人",
+    "aliases": [
+      "服务机器人",
+      "交互机器人"
+    ],
+    "discoveryDate": "2010-01-01",
+    "maturityPeriod": {
+      "start": "2024-01-01",
+      "end": "2030-12-31"
+    },
+    "declineDate": "2035-12-31"
+  },
+  "attributes": {
+    "type": "Technical",
+    "intensity": "Growing",
+    "scope": [
+      "国内",
+      "公共服务领域",
+      "展览展示"
+    ],
+    "credibility": "High"
+  },
+  "content": {
+    "description": "智能机器人通过感知、决策与执行能力，在公共服务和展示空间中承担引导、讲解与互动角色。",
+    "features": [
+      "实体交互",
+      "自主移动",
+      "语音与视觉感知",
+      "人机协作"
+    ],
+    "drivers": [
+      "人工智能成熟",
+      "服务自动化需求",
+      "人力成本上升"
+    ],
+    "constraints": [
+      "硬件成本高",
+      "维护复杂",
+      "场地适应性问题"
+    ]
+  },
+  "impact": {
+    "design": "促进实体与数字交互融合设计。",
+    "technology": "推动感知与控制系统集成。",
+    "cost": "初期投入大，长期可替代人工。",
+    "user": "增强现场互动与参与感。"
+  },
+  "data": {
+    "marketShare": 25,
+    "growthRate": 15,
+    "patents": 18000,
+    "papers": 22000,
+    "mediaReports": 1200
+  },
+  "application": {
+    "scenarios": [
+      "科技馆",
+      "博物馆",
+      "公共服务大厅"
+    ],
+    "exhibitTypes": [],
+    "suggestions": "优先部署在高频服务场景。",
+    "risks": "故障与维护影响体验。"
+  },
+  "cases": {
+    "typical": [],
+    "failures": [],
+    "competitors": []
+  },
+  "update": {
+    "frequency": "Quarterly",
+    "lastUpdate": "2026-01-06T03:10:00.000Z",
+    "nextUpdate": "",
+    "history": []
+  },
+  "sources": [],
+  "id": "1aa63d96-c7dc-45e5-af3c-9c31bbd34f97",
+  "updatedAt": "2026-01-06T02:30:22.939Z"
+}

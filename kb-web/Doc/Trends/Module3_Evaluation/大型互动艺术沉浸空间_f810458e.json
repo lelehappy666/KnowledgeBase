@@ -1,0 +1,38 @@
+{
+  "target": {
+    "type": "Exhibit",
+    "name": "大型互动艺术沉浸空间",
+    "refId": "EXHIBIT-005"
+  },
+  "scores": {
+    "experience": 5,
+    "understanding": 3,
+    "scientific": 3,
+    "maintainability": 2,
+    "innovation": 5,
+    "replicability": 1
+  },
+  "cost": {
+    "range": "200万以上",
+    "currency": "CNY",
+    "details": "定制空间设计、传感系统、内容与算法高度定制"
+  },
+  "analysis": {
+    "pros": [
+      "体验极致，传播性极强",
+      "成为展馆核心亮点"
+    ],
+    "cons": [
+      "投资和维护成本极高",
+      "复制和标准化难度大"
+    ],
+    "summary": "适合城市文化地标或旗舰级展馆项目。"
+  },
+  "tags": [
+    "互动艺术",
+    "沉浸空间",
+    "新媒体艺术"
+  ],
+  "id": "f810458e-076d-4d29-aca4-81a8099f7f80",
+  "updatedAt": "2026-01-06T03:18:27.740Z"
+}

@@ -1,0 +1,82 @@
+{
+  "basic": {
+    "name": "NFT",
+    "aliases": [
+      "非同质化代币",
+      "数字藏品"
+    ],
+    "discoveryDate": "2017-10-01",
+    "maturityPeriod": {
+      "start": "2021-01-01",
+      "end": "2024-12-31"
+    },
+    "declineDate": "2026-12-31"
+  },
+  "attributes": {
+    "type": "Technical",
+    "intensity": "Declining",
+    "scope": [
+      "国内",
+      "数字内容行业",
+      "文化创意产业"
+    ],
+    "credibility": "Medium"
+  },
+  "content": {
+    "description": "NFT 是基于区块链技术的数字资产确权方式，用于标识数字内容的唯一性和所有权，曾在数字艺术、收藏品与虚拟资产领域快速发展。",
+    "features": [
+      "数字资产唯一性",
+      "基于区块链确权",
+      "可交易与可追溯",
+      "去中心化存储"
+    ],
+    "drivers": [
+      "区块链技术发展",
+      "数字内容资产化需求",
+      "文化创意产业探索"
+    ],
+    "constraints": [
+      "市场泡沫风险",
+      "监管政策不明确",
+      "用户认知不足",
+      "实际应用场景有限"
+    ]
+  },
+  "impact": {
+    "design": "推动数字内容与虚拟展品的资产化设计。",
+    "technology": "促进区块链与数字内容系统结合。",
+    "cost": "交易和维护成本较高，收益不稳定。",
+    "user": "参与门槛较高，体验波动明显。"
+  },
+  "data": {
+    "marketShare": 10,
+    "growthRate": -5,
+    "patents": 2000,
+    "papers": 8000,
+    "mediaReports": 300
+  },
+  "application": {
+    "scenarios": [
+      "数字艺术",
+      "虚拟展览",
+      "文创产品"
+    ],
+    "exhibitTypes": [],
+    "suggestions": "谨慎使用，作为辅助性数字确权手段。",
+    "risks": "价格波动大，存在政策与信任风险。"
+  },
+  "cases": {
+    "typical": [],
+    "failures": [],
+    "competitors": []
+  },
+  "update": {
+    "frequency": "Quarterly",
+    "lastUpdate": "2026-01-06T03:00:00.000Z",
+    "nextUpdate": "",
+    "history": []
+  },
+  "sources": [],
+  "id": "09e5087d-81fd-421e-a51d-9d4a2d5e7396",
+  "updatedAt": "2026-01-06T02:28:48.995Z"
+}

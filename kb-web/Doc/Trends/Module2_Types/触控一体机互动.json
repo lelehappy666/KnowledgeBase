@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "name": "触控一体机互动",
+    "code": "TYPE_TOUCH_KIOSK_005"
+  },
+  "classification": {
+    "interactionMethod": [
+      "触控操作",
+      "多点触控",
+      "界面交互"
+    ],
+    "contentType": [
+      "信息查询",
+      "游戏互动",
+      "学习内容"
+    ],
+    "experienceType": [
+      "参与型",
+      "直觉型"
+    ]
+  },
+  "technical": {
+    "complexity": "Medium",
+    "difficulty": 3,
+    "developmentCycle": "1个月内",
+    "techRequirements": [
+      "多点触控屏",
+      "交互式UI",
+      "展示内容系统"
+    ]
+  },
+  "experience": {
+    "interactionDepth": "轻到中度互动",
+    "participantCount": "1-2人",
+    "duration": "1-10分钟",
+    "learningCurve": "非常简单"
+  },
+  "application": {
+    "spaceRequirements": [
+      "入口/中转区",
+      "展示主通道"
+    ],
+    "themes": [],
+    "scenarios": [
+      "信息查询",
+      "内容展示",
+      "教育互动"
+    ],
+    "audience": [
+      "儿童",
+      "青少年",
+      "成人"
+    ]
+  },
+  "cost": {
+    "costRange": "5-30万",
+    "maintenanceCost": "Low",
+    "updateFrequency": "中等"
+  },
+  "relations": {
+    "typicalCases": [],
+    "bestPractices": [],
+    "commonIssues": [],
+    "predecessors": [],
+    "similarTypes": [],
+    "complementaryTypes": []
+  },
+  "design": {
+    "designGuide": "界面交互应简洁直观，结合触觉反馈与视觉信息层级引导参与。",
+    "layoutSuggestions": "触控一体机周围留至少2米空间，避免多人干扰。",
+    "safetySpecs": [
+      "设备稳固",
+      "屏幕抗眩防爆"
+    ],
+    "accessibility": "无障碍触控高度、人性化界面提示。"
+  },
+  "evaluation": {
+    "experienceStandard": "界面反应迅速、触控反馈准确。",
+    "educationStandard": "内容信息层次清晰易理解。",
+    "technicalStandard": "多点触控支持稳定、应用载入快速。"
+  },
+  "id": "2d40df26-8b5e-469e-aa54-00e0b6c813d5",
+  "updatedAt": "2026-01-06T03:03:55.861Z"
+}

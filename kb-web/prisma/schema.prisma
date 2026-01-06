@@ -1,0 +1,67 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        String   @id @default(uuid())
+  username  String   @unique
+  password  String   // Hashed
+  createdAt DateTime @default(now())
+}
+
+model Exhibit {
+  id          String   @id @default(uuid())
+  title       String
+  description String?  // 简述
+  content     String?  // 详细介绍 (Rich Text)
+  
+  // 核心属性
+  status      String   @default("draft") // draft, published, archived
+  
+  // 复杂元数据 (JSON) - 对应 PDF 中的 A/B/C/D 维度
+  // 包含: trends(趋势), evaluation(评价), principles(原理), engineering(工程), cost(成本)
+  metadata    String   @default("{}") 
+  
+  // 关联
+  assets      Asset[]
+  categories  Category[]
+  tags        Tag[]
+  
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Asset {
+  id        String   @id @default(uuid())
+  name      String
+  path      String   // 物理路径 (e.g., E:\NAS\images\1.jpg)
+  type      String   // IMAGE, VIDEO, MODEL_3D, DOCUMENT
+  mimeType  String?
+  size      Int?
+  
+  exhibitId String?
+  exhibit   Exhibit? @relation(fields: [exhibitId], references: [id])
+  
+  createdAt DateTime @default(now())
+}
+
+model Category {
+  id        String    @id @default(uuid())
+  name      String
+  type      String    // INTERACTION(交互方式), CONTENT(内容类型), EXPERIENCE(体验类型)
+  exhibits  Exhibit[]
+}
+
+model Tag {
+  id        String    @id @default(uuid())
+  name      String    @unique
+  exhibits  Exhibit[]
+}

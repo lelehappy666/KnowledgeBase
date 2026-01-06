@@ -1,0 +1,80 @@
+{
+  "basic": {
+    "name": "AI 大模型",
+    "aliases": [
+      "通用人工智能模型",
+      "基础模型"
+    ],
+    "discoveryDate": "2018-01-01",
+    "maturityPeriod": {
+      "start": "2023-01-01",
+      "end": "2035-12-31"
+    },
+    "declineDate": "2040-12-31"
+  },
+  "attributes": {
+    "type": "Technical",
+    "intensity": "Growing",
+    "scope": [
+      "全球",
+      "全行业"
+    ],
+    "credibility": "High"
+  },
+  "content": {
+    "description": "AI 大模型通过大规模数据与参数训练，具备跨任务理解、生成与推理能力，成为智能系统的基础能力层。",
+    "features": [
+      "通用能力",
+      "多模态支持",
+      "强上下文理解",
+      "可扩展性强"
+    ],
+    "drivers": [
+      "算力提升",
+      "数据规模扩大",
+      "行业智能化需求"
+    ],
+    "constraints": [
+      "算力与能耗问题",
+      "数据合规风险",
+      "部署成本高"
+    ]
+  },
+  "impact": {
+    "design": "推动对话式与智能化体验设计。",
+    "technology": "成为各类智能应用的底座。",
+    "cost": "集中式成本高，边缘化趋势明显。",
+    "user": "显著提升智能系统可用性。"
+  },
+  "data": {
+    "marketShare": 40,
+    "growthRate": 25,
+    "patents": 30000,
+    "papers": 60000,
+    "mediaReports": 3000
+  },
+  "application": {
+    "scenarios": [
+      "智能交互系统",
+      "展览讲解",
+      "数字助理"
+    ],
+    "exhibitTypes": [],
+    "suggestions": "结合垂直场景进行定制化应用。",
+    "risks": "过度依赖模型导致系统不可控。"
+  },
+  "cases": {
+    "typical": [],
+    "failures": [],
+    "competitors": []
+  },
+  "update": {
+    "frequency": "Quarterly",
+    "lastUpdate": "2026-01-06T03:15:00.000Z",
+    "nextUpdate": "",
+    "history": []
+  },
+  "sources": [],
+  "id": "74e36406-14da-4c3d-a37e-c580c11b43ca",
+  "updatedAt": "2026-01-06T02:30:30.898Z"
+}

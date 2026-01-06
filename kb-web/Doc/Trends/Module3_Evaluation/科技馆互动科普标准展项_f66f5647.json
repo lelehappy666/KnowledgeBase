@@ -1,0 +1,38 @@
+{
+  "target": {
+    "type": "Exhibit",
+    "name": "科技馆互动科普标准展项",
+    "refId": "EXHIBIT-006"
+  },
+  "scores": {
+    "experience": 4,
+    "understanding": 5,
+    "scientific": 5,
+    "maintainability": 4,
+    "innovation": 4,
+    "replicability": 4
+  },
+  "cost": {
+    "range": "0-1万",
+    "currency": "CNY",
+    "details": "互动装置、内容策划与基础软件系统"
+  },
+  "analysis": {
+    "pros": [
+      "教育目标明确\r",
+      "适合长期运营"
+    ],
+    "cons": [
+      "体验形式较克制\r",
+      "需要良好策展逻辑支撑"
+    ],
+    "summary": "适合作为科普展厅的基础与骨干展项。"
+  },
+  "tags": [
+    "科普",
+    "互动展项",
+    "科技馆"
+  ],
+  "id": "f66f5647-2ee0-47d9-8aef-6219a10839b1",
+  "updatedAt": "2026-01-06T03:19:52.762Z"
+}

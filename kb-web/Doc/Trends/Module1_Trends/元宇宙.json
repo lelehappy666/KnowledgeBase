@@ -1,0 +1,81 @@
+{
+  "basic": {
+    "name": "元宇宙",
+    "aliases": [
+      "虚拟世界",
+      "数字孪生空间"
+    ],
+    "discoveryDate": "2020-01-01",
+    "maturityPeriod": {
+      "start": "2025-01-01",
+      "end": "2032-12-31"
+    },
+    "declineDate": "2035-12-31"
+  },
+  "attributes": {
+    "type": "Technical",
+    "intensity": "Growing",
+    "scope": [
+      "全球",
+      "科技行业",
+      "文旅展览"
+    ],
+    "credibility": "Medium"
+  },
+  "content": {
+    "description": "元宇宙是融合虚拟现实、数字孪生、区块链和 AI 的持续性虚拟空间概念，用于构建与现实世界映射或并行的数字环境。",
+    "features": [
+      "虚实融合",
+      "持续在线",
+      "多用户协作",
+      "沉浸式体验"
+    ],
+    "drivers": [
+      "VR/AR 技术进步",
+      "数字内容消费升级",
+      "企业数字化展示需求"
+    ],
+    "constraints": [
+      "硬件普及率不足",
+      "技术标准缺失",
+      "应用场景模糊"
+    ]
+  },
+  "impact": {
+    "design": "推动空间与叙事型交互设计。",
+    "technology": "促进实时渲染与虚拟引擎发展。",
+    "cost": "建设成本高，回报周期长。",
+    "user": "体验新颖但依赖设备条件。"
+  },
+  "data": {
+    "marketShare": 20,
+    "growthRate": 12,
+    "patents": 5000,
+    "papers": 15000,
+    "mediaReports": 800
+  },
+  "application": {
+    "scenarios": [
+      "虚拟展馆",
+      "数字文旅",
+      "企业展示"
+    ],
+    "exhibitTypes": [],
+    "suggestions": "聚焦轻量化与现实结合场景。",
+    "risks": "过度概念化导致落地困难。"
+  },
+  "cases": {
+    "typical": [],
+    "failures": [],
+    "competitors": []
+  },
+  "update": {
+    "frequency": "Quarterly",
+    "lastUpdate": "2026-01-06T03:05:00.000Z",
+    "nextUpdate": "",
+    "history": []
+  },
+  "sources": [],
+  "id": "ee295339-d39e-484e-9981-7dd4c2aff636",
+  "updatedAt": "2026-01-06T02:30:14.020Z"
+}

@@ -1,0 +1,77 @@
+{
+  "basic": {
+    "name": "沉浸式体验",
+    "aliases": [
+      "沉浸式交互",
+      "沉浸式展示"
+    ],
+    "discoveryDate": "2015-01-01",
+    "maturityPeriod": {
+      "start": "2022-01-01",
+      "end": "2028-12-31"
+    },
+    "declineDate": "2032-12-31"
+  },
+  "attributes": {
+    "type": "Experience",
+    "intensity": "Growing",
+    "scope": [
+      "文旅",
+      "展览展示",
+      "娱乐行业"
+    ],
+    "credibility": "High"
+  },
+  "content": {
+    "description": "沉浸式体验通过空间、影像、声音与交互手段，营造强参与感的体验环境，强调情绪与感官共鸣。",
+    "features": [
+      "空间沉浸",
+      "多感官刺激",
+      "情境化叙事"
+    ],
+    "drivers": [
+      "体验消费升级",
+      "数字内容技术成熟"
+    ],
+    "constraints": [
+      "制作成本高",
+      "更新维护复杂"
+    ]
+  },
+  "impact": {
+    "design": "强调空间与叙事一体化设计。",
+    "technology": "推动实时渲染与交互系统。",
+    "cost": "一次性投入大。",
+    "user": "体验记忆度强。"
+  },
+  "data": {
+    "marketShare": 30,
+    "growthRate": 14,
+    "patents": 8000,
+    "papers": 12000,
+    "mediaReports": 1500
+  },
+  "application": {
+    "scenarios": [
+      "沉浸式展厅",
+      "数字文旅项目"
+    ],
+    "exhibitTypes": [],
+    "suggestions": "注重内容与技术平衡。",
+    "risks": "形式大于内容。"
+  },
+  "cases": {
+    "typical": [],
+    "failures": [],
+    "competitors": []
+  },
+  "update": {
+    "frequency": "Quarterly",
+    "lastUpdate": "2026-01-06T03:20:00.000Z",
+    "nextUpdate": "",
+    "history": []
+  },
+  "sources": [],
+  "id": "d686e191-4de4-473d-b41d-56fe34661c80",
+  "updatedAt": "2026-01-06T02:30:40.764Z"
+}

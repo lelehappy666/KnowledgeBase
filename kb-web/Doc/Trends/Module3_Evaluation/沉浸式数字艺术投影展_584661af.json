@@ -1,0 +1,38 @@
+{
+  "target": {
+    "type": "Exhibit",
+    "name": "沉浸式数字艺术投影展",
+    "refId": "EXHIBIT-001"
+  },
+  "scores": {
+    "experience": 5,
+    "understanding": 4,
+    "scientific": 3,
+    "maintainability": 4,
+    "innovation": 5,
+    "replicability": 3
+  },
+  "cost": {
+    "range": "50-150万",
+    "currency": "CNY",
+    "details": "高亮度投影系统、多通道服务器、定制数字内容制作"
+  },
+  "analysis": {
+    "pros": [
+      "沉浸感极强，视觉冲击力显著",
+      "适合大众参观与拍照传播"
+    ],
+    "cons": [
+      "科普深度有限，偏艺术体验",
+      "对空间与灯光条件要求高"
+    ],
+    "summary": "适合打造标志性展厅空间，提升整体形象和观众流量。"
+  },
+  "tags": [
+    "沉浸式",
+    "数字艺术",
+    "投影融合"
+  ],
+  "id": "584661af-4ced-4f0e-a22f-371772803d86",
+  "updatedAt": "2026-01-06T03:15:05.593Z"
+}

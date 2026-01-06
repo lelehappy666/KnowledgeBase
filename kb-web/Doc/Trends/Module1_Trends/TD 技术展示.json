@@ -1,0 +1,76 @@
+{
+  "basic": {
+    "name": "TD 技术展示",
+    "aliases": [
+      "技术导向展示",
+      "Technology Driven 展示"
+    ],
+    "discoveryDate": "2018-01-01",
+    "maturityPeriod": {
+      "start": "2024-01-01",
+      "end": "2030-12-31"
+    },
+    "declineDate": "2035-12-31"
+  },
+  "attributes": {
+    "type": "Technical",
+    "intensity": "Growing",
+    "scope": [
+      "科技馆",
+      "企业展厅"
+    ],
+    "credibility": "High"
+  },
+  "content": {
+    "description": "TD 展示以技术能力为核心驱动，将前沿技术作为展示内容本身，强调技术可视化与可体验性。",
+    "features": [
+      "技术为主角",
+      "交互驱动展示",
+      "强调原理呈现"
+    ],
+    "drivers": [
+      "科技传播需求",
+      "公众科学素养提升"
+    ],
+    "constraints": [
+      "内容理解门槛高",
+      "对设计与技术要求高"
+    ]
+  },
+  "impact": {
+    "design": "强调逻辑性与技术可视化。",
+    "technology": "推动技术模块化展示。",
+    "cost": "研发成本高。",
+    "user": "学习价值高但需要引导。"
+  },
+  "data": {
+    "marketShare": 22,
+    "growthRate": 10,
+    "patents": 4000,
+    "papers": 6000,
+    "mediaReports": 700
+  },
+  "application": {
+    "scenarios": [
+      "科技馆核心展项",
+      "企业技术展示"
+    ],
+    "exhibitTypes": [],
+    "suggestions": "结合交互与故事化表达。",
+    "risks": "技术堆叠导致体验割裂。"
+  },
+  "cases": {
+    "typical": [],
+    "failures": [],
+    "competitors": []
+  },
+  "update": {
+    "frequency": "Quarterly",
+    "lastUpdate": "2026-01-06T03:25:00.000Z",
+    "nextUpdate": "",
+    "history": []
+  },
+  "sources": [],
+  "id": "dd246e3f-ab14-4638-9a80-3a61cf0f19e4",
+  "updatedAt": "2026-01-06T02:31:30.625Z"
+}

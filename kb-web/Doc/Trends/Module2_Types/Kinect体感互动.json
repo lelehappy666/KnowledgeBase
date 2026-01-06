@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "name": "Kinect体感互动",
+    "code": "TYPE_KINECT_002"
+  },
+  "classification": {
+    "interactionMethod": [
+      "体感捕捉",
+      "手势识别",
+      "姿态交互"
+    ],
+    "contentType": [
+      "游戏化互动",
+      "教育展示",
+      "沉浸体验"
+    ],
+    "experienceType": [
+      "参与型",
+      "肢体驱动"
+    ]
+  },
+  "technical": {
+    "complexity": "Medium",
+    "difficulty": 4,
+    "developmentCycle": "1-2个月",
+    "techRequirements": [
+      "深度摄像头与骨骼追踪",
+      "实时渲染引擎",
+      "互动反馈系统"
+    ]
+  },
+  "experience": {
+    "interactionDepth": "中到高度互动",
+    "participantCount": "1-6人",
+    "duration": "1-5分钟/互动",
+    "learningCurve": "简单上手"
+  },
+  "application": {
+    "spaceRequirements": [
+      "中型空地",
+      "开阔互动区"
+    ],
+    "themes": [],
+    "scenarios": [
+      "科技馆互动展览",
+      "主题活动体验",
+      "教育展示空间"
+    ],
+    "audience": [
+      "儿童",
+      "青少年",
+      "成人"
+    ]
+  },
+  "cost": {
+    "costRange": "8-25万",
+    "maintenanceCost": "Low to Medium",
+    "updateFrequency": "中等"
+  },
+  "relations": {
+    "typicalCases": [],
+    "bestPractices": [],
+    "commonIssues": [],
+    "predecessors": [],
+    "similarTypes": [],
+    "complementaryTypes": []
+  },
+  "design": {
+    "designGuide": "确保体感摄像头与互动区无遮挡。互动内容应设计直觉指引，使用户能通过肢体完成目标操作。",
+    "layoutSuggestions": "互动区前方预留至少3-5米空间避免遮挡肢体追踪视野。",
+    "safetySpecs": [
+      "稳定安装摄像与显示设备",
+      "光线控制避免误识别"
+    ],
+    "accessibility": "支持多身高追踪，并提供音效/视觉引导。"
+  },
+  "evaluation": {
+    "experienceStandard": "骨骼追踪精度高、肢体动作响应流畅。",
+    "educationStandard": "互动内容具有引导性与教学价值。",
+    "technicalStandard": "碰撞误识别低、不同光照环境下识别稳定。"
+  },
+  "id": "59a3caba-880f-424e-87be-17e0564eeded",
+  "updatedAt": "2026-01-06T02:50:00.835Z"
+}

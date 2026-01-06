@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "name": "滑轨屏互动",
+    "code": "TYPE_TRACK_SCREEN_001"
+  },
+  "classification": {
+    "interactionMethod": [
+      "滑轨移动",
+      "触控互动",
+      "视听反馈"
+    ],
+    "contentType": [
+      "展示",
+      "信息查询",
+      "游戏化互动"
+    ],
+    "experienceType": [
+      "参与型",
+      "动态展示"
+    ]
+  },
+  "technical": {
+    "complexity": "Medium",
+    "difficulty": 4,
+    "developmentCycle": "1-3个月",
+    "techRequirements": [
+      "伺服滑轨系统",
+      "触摸/感应控制",
+      "大屏显示与内容渲染"
+    ]
+  },
+  "experience": {
+    "interactionDepth": "中度互动",
+    "participantCount": "1-5人",
+    "duration": "1-4分钟/互动",
+    "learningCurve": "低"
+  },
+  "application": {
+    "spaceRequirements": [
+      "中型空间",
+      "展厅侧墙或通道"
+    ],
+    "themes": [],
+    "scenarios": [
+      "科技馆展陈",
+      "企业形象展",
+      "商业互动展示"
+    ],
+    "audience": [
+      "儿童",
+      "青少年",
+      "成人"
+    ]
+  },
+  "cost": {
+    "costRange": "15-40万",
+    "maintenanceCost": "Medium",
+    "updateFrequency": "中等"
+  },
+  "relations": {
+    "typicalCases": [],
+    "bestPractices": [],
+    "commonIssues": [],
+    "predecessors": [],
+    "similarTypes": [],
+    "complementaryTypes": []
+  },
+  "design": {
+    "designGuide": "滑轨路径需考虑人流与视觉焦点，内容与轨迹联动呈现品牌或信息节点。滑轨最大行程视空间而定，至少留出互动引导区域。",
+    "layoutSuggestions": "滑轨轨道靠墙安装，前方保留1.5—3米互动区。控制柜与机电设备合理遮挡。",
+    "safetySpecs": [
+      "防夹手设计",
+      "轨道限位与急停系统"
+    ],
+    "accessibility": "符合无障碍距离和高度规范，触控互动位置兼顾不同身高用户。"
+  },
+  "evaluation": {
+    "experienceStandard": "滑轨位置反馈流畅、展示内容与屏幕动效联动自然。",
+    "educationStandard": "内容信息清晰、可按主题分段讲解。",
+    "technicalStandard": "伺服运动精度高、响应延迟低、设备运行可靠。"
+  },
+  "id": "e86b7a0c-443e-4afe-925d-b5fc9a964d10",
+  "updatedAt": "2026-01-06T02:49:51.114Z"
+}

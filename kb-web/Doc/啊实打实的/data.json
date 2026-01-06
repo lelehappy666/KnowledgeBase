@@ -1,0 +1,26 @@
+{
+  "id": "b68f4232-8832-458b-baac-96f8948b22f5",
+  "title": "啊实打实的",
+  "description": "啊实打实的",
+  "content": "啊实打实的啊实打实的啊实打实的啊实打实的啊实打实的",
+  "status": "draft",
+  "metadata": {
+    "trends": {},
+    "evaluation": {
+      "score": 0
+    },
+    "principles": {},
+    "engineering": {},
+    "cost": {}
+  },
+  "assets": [
+    {
+      "id": "070e9894-268d-41cb-a35e-51211b20d6e7",
+      "name": "1.jpg",
+      "type": "IMAGE",
+      "path": "1.jpg",
+      "mimeType": "image/jpeg"
+    }
+  ],
+  "updatedAt": "2026-01-06T01:15:51.213Z"
+}

@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "name": "签名墙互动",
+    "code": "TYPE_SIGNATURE_WALL_004"
+  },
+  "classification": {
+    "interactionMethod": [
+      "触控书写",
+      "图像/动态签名",
+      "留言展示"
+    ],
+    "contentType": [
+      "社交互动",
+      "纪念留存",
+      "数据展示"
+    ],
+    "experienceType": [
+      "参与型",
+      "情感互动"
+    ]
+  },
+  "technical": {
+    "complexity": "Medium",
+    "difficulty": 3,
+    "developmentCycle": "1-2个月",
+    "techRequirements": [
+      "触控屏与手写识别",
+      "实时渲染反馈",
+      "数据存储/展示系统"
+    ]
+  },
+  "experience": {
+    "interactionDepth": "轻度互动",
+    "participantCount": "多人",
+    "duration": "30秒-3分钟/用户",
+    "learningCurve": "非常简单"
+  },
+  "application": {
+    "spaceRequirements": [
+      "入口/大厅",
+      "开敞互动区"
+    ],
+    "themes": [],
+    "scenarios": [
+      "展览签到",
+      "活动留念",
+      "文化体验区"
+    ],
+    "audience": [
+      "儿童",
+      "青少年",
+      "成人"
+    ]
+  },
+  "cost": {
+    "costRange": "5-20万",
+    "maintenanceCost": "Low",
+    "updateFrequency": "中等"
+  },
+  "relations": {
+    "typicalCases": [],
+    "bestPractices": [],
+    "commonIssues": [],
+    "predecessors": [],
+    "similarTypes": [],
+    "complementaryTypes": []
+  },
+  "design": {
+    "designGuide": "签名墙背景可结合主题定制，可增加动态签名效果、特效涂鸦、拍照合成等扩展功能。",
+    "layoutSuggestions": "触控屏前留2-3米活动区，旁边配备引导说明。",
+    "safetySpecs": [
+      "稳固安装",
+      "屏幕防划设计"
+    ],
+    "accessibility": "支持不同语言输入/无障碍输入提示，兼容轮椅高度。"
+  },
+  "evaluation": {
+    "experienceStandard": "书写自然、反馈清晰。",
+    "educationStandard": "可结合展览主题提升互动意义。",
+    "technicalStandard": "手写识别准确、数据存储稳定。"
+  },
+  "id": "7211137d-b9c6-4e79-a37f-54ccbb85125f",
+  "updatedAt": "2026-01-06T02:50:19.637Z"
+}

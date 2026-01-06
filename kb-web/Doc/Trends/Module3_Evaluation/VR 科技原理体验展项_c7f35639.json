@@ -1,0 +1,38 @@
+{
+  "target": {
+    "type": "Exhibit",
+    "name": "VR 科技原理体验展项",
+    "refId": "EXHIBIT-004"
+  },
+  "scores": {
+    "experience": 4,
+    "understanding": 5,
+    "scientific": 5,
+    "maintainability": 3,
+    "innovation": 4,
+    "replicability": 3
+  },
+  "cost": {
+    "range": "40-100万",
+    "currency": "CNY",
+    "details": "VR头显、交互内容开发、安全与管理配套"
+  },
+  "analysis": {
+    "pros": [
+      "适合展示复杂科技原理",
+      "学习效果显著"
+    ],
+    "cons": [
+      "单次体验人数有限",
+      "设备维护与卫生管理成本较高"
+    ],
+    "summary": "适合科技馆、工业主题展厅和教育场景。"
+  },
+  "tags": [
+    "VR",
+    "科技教育",
+    "沉浸体验"
+  ],
+  "id": "c7f35639-941e-4bfe-9f8f-a8147d59a30f",
+  "updatedAt": "2026-01-06T03:18:20.188Z"
+}
