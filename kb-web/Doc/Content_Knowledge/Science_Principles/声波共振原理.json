@@ -1,0 +1,196 @@
+{
+  "name": "声波共振原理",
+  "basic": {
+    "aliases": [
+      "声学共振",
+      "共鸣现象"
+    ],
+    "enName": "Acoustic Resonance",
+    "abstract": "当外界声波频率与物体固有频率一致时，振动幅度显著增强的现象",
+    "history": "17世纪伽利略最早研究振动与共振关系，后由赫兹等人完善"
+  },
+  "classification": {
+    "category": "物理",
+    "subCategory": "声学",
+    "crossDiscipline": [
+      "建筑学",
+      "音乐工程"
+    ],
+    "knowledgeSystem": "经典物理",
+    "difficultyLevel": "入门级"
+  },
+  "education": {
+    "gradeLevel": [
+      "小学",
+      "初中"
+    ],
+    "gradeSpecific": [
+      "五年级",
+      "八年级"
+    ],
+    "curriculum": {
+      "standard": [
+        {
+          "version": "人教版",
+          "grade": "8",
+          "chapter": "声现象"
+        }
+      ],
+      "requirements": "理解共振产生条件及实际影响",
+      "knowledgePointId": "PHY-08-02-01",
+      "coreLiteracy": [
+        "科学思维",
+        "实践探究"
+      ],
+      "abilityGoals": [
+        "能识别共振现象",
+        "能解释共振危害与应用"
+      ],
+      "cognitiveLevel": "理解"
+    },
+    "teaching": {
+      "misconceptions": [
+        "共振一定会造成破坏"
+      ],
+      "difficulties": "频率概念抽象",
+      "suggestions": "结合音叉与实验演示",
+      "safety": "避免高强度声波"
+    }
+  },
+  "exhibitRelation": {
+    "exhibitability": "非常适合展示",
+    "suitableTypes": [],
+    "existingCases": [],
+    "creativeIdeas": [
+      {
+        "name": "共振破杯实验",
+        "desc": "通过频率匹配演示玻璃共振"
+      }
+    ],
+    "design": {
+      "visualStrategy": "可视化振幅变化",
+      "interactionPoints": [
+        "调节频率旋钮"
+      ],
+      "experiencePoints": [
+        "震撼感:突然增强的振动"
+      ],
+      "techPath": [
+        "音频发生器",
+        "传感器"
+      ]
+    },
+    "difficulty": {
+      "understanding": 2,
+      "operation": 2,
+      "immersion": 4,
+      "memory": 4
+    }
+  },
+  "activity": {
+    "curriculum": {
+      "theme": "听得见的物理",
+      "type": [
+        "实验课"
+      ],
+      "duration": "40分钟",
+      "location": [
+        "教室",
+        "展厅"
+      ],
+      "audienceSize": "10-30人"
+    },
+    "project": {
+      "theme": "设计一件共鸣乐器",
+      "cycle": "1周",
+      "drivingQuestion": "为什么乐器会发出不同声音？",
+      "outcome": [
+        "自制共鸣装置"
+      ],
+      "evaluationRubric": ""
+    },
+    "resources": {
+      "ppt": "",
+      "guide": "",
+      "manual": "",
+      "video": "",
+      "materials": "",
+      "equipment": [
+        {
+          "name": "音叉",
+          "count": 6
+        }
+      ],
+      "cost": 300
+    }
+  },
+  "crossDisciplinary": {
+    "steam": {
+      "s": [
+        "波动理论"
+      ],
+      "t": [
+        "音频处理"
+      ],
+      "e": [
+        "建筑声学"
+      ],
+      "a": [
+        "音乐创作"
+      ],
+      "m": [
+        "频率计算"
+      ]
+    },
+    "application": {
+      "daily": [
+        "乐器共鸣"
+      ],
+      "industrial": [
+        "机械振动检测"
+      ],
+      "research": [
+        "声学材料"
+      ],
+      "medical": [
+        "超声成像"
+      ],
+      "military": [
+        "声呐系统"
+      ]
+    },
+    "frontier": {
+      "research": "微结构声学共振",
+      "unsolved": [
+        "复杂结构共振预测"
+      ],
+      "trends": "超材料声学"
+    }
+  },
+  "evaluation": {
+    "teaching": {
+      "indicators": [
+        "理解共振条件"
+      ],
+      "methods": [
+        "实验观察"
+      ],
+      "tools": "",
+      "data": []
+    },
+    "exhibit": {
+      "effect": 5,
+      "feedback": "声音变化非常直观",
+      "suggestions": "增加互动调节精度"
+    },
+    "content": {
+      "accuracy": "已验证",
+      "timeliness": "稳定",
+      "completeness": 5,
+      "utility": 5,
+      "popularity": 5
+    }
+  },
+  "id": "16cb5c19-23f0-4d51-8b18-396301a3f6ac",
+  "updatedAt": "2026-01-07T07:41:58.697Z"
+}

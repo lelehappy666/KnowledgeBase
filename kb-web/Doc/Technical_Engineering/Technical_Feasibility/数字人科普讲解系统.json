@@ -1,0 +1,95 @@
+{
+  "name": "数字人科普讲解系统",
+  "basic": {
+    "id": "TECH-DH-007",
+    "category": "数字人技术",
+    "description": "基于实时渲染与AI驱动的数字人讲解展示系统",
+    "keywords": [
+      "数字人",
+      "AI讲解",
+      "实时渲染"
+    ],
+    "source": "定制+采购"
+  },
+  "specs": {
+    "dimensions": "屏幕展示",
+    "weight": "80kg",
+    "power": "500W",
+    "materials": [
+      "LED屏",
+      "计算终端"
+    ],
+    "network": "千兆以太网",
+    "software": "Unity3D / AI引擎"
+  },
+  "analysis": {
+    "maturity": {
+      "trl": 8,
+      "status": "商业化阶段",
+      "cases": 25
+    },
+    "stability": {
+      "mtbf": "3500小时",
+      "durability": "中",
+      "maintenanceCycle": "2个月"
+    },
+    "safety": {
+      "risks": [
+        "系统卡顿"
+      ],
+      "measures": [
+        "本地离线模式"
+      ],
+      "certifications": [
+        "CCC"
+      ]
+    },
+    "riskLevel": "Medium"
+  },
+  "requirements": {
+    "environment": {
+      "temperature": "10-35℃",
+      "humidity": "20-80%",
+      "lighting": "正常室内光",
+      "noise": "<50dB"
+    },
+    "installation": {
+      "space": "2m x 2m",
+      "loadBearing": ">200kg/m2",
+      "difficulty": 3,
+      "time": "2天"
+    },
+    "skill": {
+      "development": [
+        "角色建模",
+        "AI训练"
+      ],
+      "operation": [
+        "内容更新",
+        "系统监控"
+      ]
+    }
+  },
+  "cost": {
+    "development": 100000,
+    "hardware": 70000,
+    "software": 40000,
+    "deployment": 15000,
+    "maintenance": 15000,
+    "total": 240000
+  },
+  "interaction": {
+    "input": [
+      "语音",
+      "触控"
+    ],
+    "output": [
+      "数字人影像",
+      "语音讲解"
+    ],
+    "latency": "<120ms",
+    "throughput": "多人观看"
+  },
+  "id": "a2810b2d-69af-43d6-9e1d-036f243b5322",
+  "updatedAt": "2026-01-07T08:42:16.674Z"
+}

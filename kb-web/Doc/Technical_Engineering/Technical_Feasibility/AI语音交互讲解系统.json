@@ -1,0 +1,95 @@
+{
+  "name": "AI语音交互讲解系统",
+  "basic": {
+    "id": "TECH-AI-004",
+    "category": "人工智能交互",
+    "description": "基于语音识别与自然语言理解的智能讲解系统",
+    "keywords": [
+      "语音识别",
+      "AI讲解",
+      "自然语言"
+    ],
+    "source": "采购+定制"
+  },
+  "specs": {
+    "dimensions": "分布式部署",
+    "weight": "20kg/点位",
+    "power": "200W",
+    "materials": [
+      "拾音麦克风",
+      "音箱"
+    ],
+    "network": "千兆以太网",
+    "software": "Python / Unity / AI引擎"
+  },
+  "analysis": {
+    "maturity": {
+      "trl": 9,
+      "status": "高度成熟",
+      "cases": 200
+    },
+    "stability": {
+      "mtbf": "8000小时",
+      "durability": "高",
+      "maintenanceCycle": "6个月"
+    },
+    "safety": {
+      "risks": [
+        "误识别"
+      ],
+      "measures": [
+        "关键词限定",
+        "人工兜底模式"
+      ],
+      "certifications": [
+        "CCC"
+      ]
+    },
+    "riskLevel": "Low"
+  },
+  "requirements": {
+    "environment": {
+      "temperature": "5-35℃",
+      "humidity": "20-80%",
+      "lighting": "无要求",
+      "noise": "<60dB"
+    },
+    "installation": {
+      "space": "点位部署",
+      "loadBearing": "无",
+      "difficulty": 2,
+      "time": "1天"
+    },
+    "skill": {
+      "development": [
+        "语义训练",
+        "知识库构建"
+      ],
+      "operation": [
+        "话术维护",
+        "设备巡检"
+      ]
+    }
+  },
+  "cost": {
+    "development": 60000,
+    "hardware": 40000,
+    "software": 30000,
+    "deployment": 10000,
+    "maintenance": 10000,
+    "total": 150000
+  },
+  "interaction": {
+    "input": [
+      "语音提问"
+    ],
+    "output": [
+      "语音讲解",
+      "屏幕文字"
+    ],
+    "latency": "<100ms",
+    "throughput": "多人并发"
+  },
+  "id": "f8d23ff8-663a-42c5-8c8b-91328e3f3cc5",
+  "updatedAt": "2026-01-07T08:41:56.045Z"
+}

@@ -23,13 +23,13 @@ export function Navbar() {
               展品展项认知基础库
             </Link>
             <Link
-              href="/content-lib"
+              href="/content"
               className="transition-colors hover:text-foreground/80 text-foreground/60 font-medium"
             >
               展项内容知识库
             </Link>
             <Link
-              href="/engineering"
+              href="/technical"
               className="transition-colors hover:text-foreground/80 text-foreground/60 font-medium"
             >
               展品技术与工程知识库
@@ -73,8 +73,8 @@ export function Navbar() {
             </Link>
             <nav className="flex flex-col gap-4 px-2">
               <Link href="/cognitive" className="text-lg font-medium">展品展项认知基础库</Link>
-              <Link href="/content-lib" className="text-lg font-medium">展项内容知识库</Link>
-              <Link href="/engineering" className="text-lg font-medium">展品技术与工程知识库</Link>
+              <Link href="/content" className="text-lg font-medium">展项内容知识库</Link>
+              <Link href="/technical" className="text-lg font-medium">展品技术与工程知识库</Link>
               <Link href="/methodology" className="text-lg font-medium">展项研发方法论</Link>
               <Link href="/gallery" className="text-lg font-medium">浏览展品</Link>
               <Link href="/admin" className="text-lg font-medium text-primary">管理后台</Link>

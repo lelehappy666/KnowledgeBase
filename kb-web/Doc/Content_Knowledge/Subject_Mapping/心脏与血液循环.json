@@ -1,0 +1,192 @@
+{
+  "name": "心脏与血液循环",
+  "basic": {
+    "code": "SM-BIO-001",
+    "purpose": "理解人体血液循环系统的工作方式"
+  },
+  "dimensions": {
+    "exhibit": {
+      "typeId": "life-science",
+      "subTypes": [
+        "心脏模型",
+        "血液循环演示"
+      ],
+      "interaction": [
+        "按压泵体",
+        "观察流向"
+      ],
+      "experience": [
+        "动态观察",
+        "节律感受"
+      ]
+    },
+    "subject": {
+      "category": "生物",
+      "branch": "人体生理",
+      "topic": "循环系统",
+      "standard": "义务教育生物课程标准(2022年版)"
+    },
+    "grade": {
+      "level": "初中",
+      "specific": [
+        "七年级下册"
+      ],
+      "ageRange": "12-13岁",
+      "cognitiveLevel": "具体运算向形式运算过渡"
+    }
+  },
+  "knowledge": {
+    "principleId": "",
+    "name": "血液循环原理",
+    "code": "BIO-HUM-03",
+    "depth": "理解",
+    "type": "概念性",
+    "match": {
+      "score": 5,
+      "reason": "动态模型直观展示血液流动。",
+      "pros": [
+        "形象生动"
+      ],
+      "cons": [
+        "细节简化"
+      ],
+      "complementary": [
+        "动画视频"
+      ]
+    }
+  },
+  "teaching": {
+    "timing": "新课讲解",
+    "method": [
+      "演示",
+      "讨论"
+    ],
+    "duration": "15分钟",
+    "connection": "帮助构建系统观念",
+    "difficulty": {
+      "cognitive": 2,
+      "operation": 1,
+      "threshold": "认识器官名称",
+      "skills": [
+        "观察描述"
+      ]
+    },
+    "adaptability": {
+      "gender": "无差异",
+      "culture": "普适",
+      "specialNeeds": [],
+      "learningStyle": [
+        "视觉型"
+      ],
+      "personality": [
+        "所有"
+      ]
+    },
+    "groupFit": {
+      "individual": 4,
+      "group": 4,
+      "class": 5,
+      "family": 4
+    }
+  },
+  "goals": {
+    "knowledge": [
+      "认识心脏结构",
+      "理解血液循环"
+    ],
+    "ability": [
+      "解释血液流向"
+    ],
+    "literacy": [
+      "生命观念"
+    ],
+    "emotion": [
+      "关注健康"
+    ]
+  },
+  "assessment": {
+    "dimensions": [
+      "结构识别",
+      "流程描述"
+    ],
+    "methods": [
+      "口头表达"
+    ],
+    "tools": "学习单",
+    "standards": [],
+    "performance": "能完整描述循环路径"
+  },
+  "outcome": {
+    "works": [
+      "循环示意图"
+    ],
+    "example": "解释运动后心跳加快",
+    "display": [
+      "模型展示"
+    ]
+  },
+  "implementation": {
+    "conditions": {
+      "space": "2平米",
+      "equipment": [
+        "心脏模型"
+      ],
+      "personnel": "1名讲解员",
+      "safety": "无特殊风险",
+      "maintenance": "定期检查泵体"
+    },
+    "resources": {
+      "guide": "循环系统学习指南.pdf",
+      "manual": "设备说明书.pdf",
+      "background": "人体生理基础",
+      "extended": [],
+      "qa": "为什么心跳会变化？"
+    },
+    "schedule": {
+      "prep": 5,
+      "activity": 15,
+      "cleanup": 5,
+      "bestTime": [
+        "全天"
+      ]
+    },
+    "cost": {
+      "equipment": 3000,
+      "material": 100,
+      "labor": 100,
+      "total": 3200
+    }
+  },
+  "validation": {
+    "cases": [],
+    "schools": [
+      "实验中学"
+    ],
+    "dates": [
+      "2025-09-30"
+    ],
+    "report": "学生理解度高",
+    "feedback": {
+      "student": "像真的心脏一样",
+      "teacher": "很适合生命科学课",
+      "effect": [],
+      "engagement": 5,
+      "satisfaction": 5
+    },
+    "improvement": {
+      "history": [],
+      "todos": [
+        "增加血压演示"
+      ],
+      "suggestions": "加入数字显示"
+    },
+    "status": {
+      "level": "已验证",
+      "agency": "教研组",
+      "date": "2025-10-15",
+      "report": "通过验收"
+    }
+  },
+  "id": "81528138-4c01-4386-bd50-db943b889be7",
+  "updatedAt": "2026-01-07T07:59:44.788Z"
+}

@@ -1,0 +1,358 @@
+{
+  "name": "材料改变世界",
+  "basic": {
+    "id": "THEME_MATERIAL_001",
+    "aliases": [
+      "材料革命",
+      "物质文明"
+    ],
+    "icon": "material-icon.png",
+    "color": "#795548",
+    "slogan": "文明，源于材料",
+    "abstract": "从石器到智能材料，讲述材料如何推动人类技术、社会与文明的跃迁。",
+    "attributes": {
+      "type": "工程科学主题",
+      "scale": "大型主题",
+      "timeliness": "长期主题",
+      "importance": "重点主题",
+      "urgency": "中"
+    },
+    "relations": {
+      "subjects": [
+        "物理",
+        "化学",
+        "工程"
+      ],
+      "domains": [
+        "材料科学",
+        "制造技术"
+      ],
+      "sdgs": [
+        "目标9:产业创新"
+      ],
+      "keywords": [
+        "新材料",
+        "制造",
+        "技术革命"
+      ]
+    }
+  },
+  "structure": {
+    "framework": {
+      "type": "文明演进叙事",
+      "perspective": "历史观察者",
+      "rhythm": "阶段跃迁",
+      "emotionCurve": "熟悉→惊讶→赞叹",
+      "goal": "理解材料对文明的决定性作用"
+    },
+    "stages": [
+      {
+        "name": "天然材料",
+        "desc": "石木骨皮",
+        "duration": 6
+      },
+      {
+        "name": "工业材料",
+        "desc": "钢铁塑料",
+        "duration": 8
+      },
+      {
+        "name": "未来材料",
+        "desc": "智能与纳米",
+        "duration": 10
+      }
+    ],
+    "points": {
+      "turning": [
+        "青铜时代",
+        "工业革命",
+        "材料科学"
+      ],
+      "climax": "未来材料实验室",
+      "ending": "材料塑造未来"
+    },
+    "elements": {
+      "protagonist": "材料",
+      "conflict": "性能需求与资源限制",
+      "suspense": [
+        "下一代材料是什么?"
+      ],
+      "metaphor": [
+        "材料是文明骨架"
+      ],
+      "quotes": [
+        "材料决定可能性"
+      ]
+    },
+    "cognition": {
+      "start": "材料只是工具",
+      "goal": "理解材料驱动文明",
+      "ladder": [
+        {
+          "level": 1,
+          "cognition": "识别材料",
+          "activity": "材料触摸"
+        },
+        {
+          "level": 2,
+          "cognition": "理解性能",
+          "activity": "性能对比"
+        }
+      ],
+      "obstacles": [
+        "专业术语"
+      ],
+      "breakthroughs": [
+        "生活化案例"
+      ]
+    }
+  },
+  "configuration": {
+    "exhibits": {
+      "suitableTypes": [],
+      "functionTable": [
+        {
+          "type": "实物展项",
+          "func": "材料对比"
+        }
+      ],
+      "combinations": [
+        {
+          "name": "材料时间轴",
+          "exhibits": []
+        }
+      ],
+      "core": [],
+      "auxiliary": []
+    },
+    "layout": {
+      "space": "大型展区",
+      "area": 420,
+      "type": "时间线流线",
+      "flowChart": "",
+      "zones": [
+        {
+          "name": "未来材料区",
+          "func": "前沿展示"
+        }
+      ],
+      "focus": [
+        "材料时间轴"
+      ],
+      "transition": "材质变化",
+      "restPoints": [
+        {
+          "location": "未来区",
+          "func": "想象区"
+        }
+      ]
+    },
+    "examples": {
+      "visual": [],
+      "mechanical": [],
+      "data": [],
+      "immersive": [],
+      "interactive": [],
+      "art": []
+    }
+  },
+  "content": {
+    "framework": {
+      "core": [
+        "材料推动文明"
+      ],
+      "data": [
+        {
+          "label": "材料种类",
+          "value": "数百万"
+        }
+      ],
+      "concepts": [
+        {
+          "name": "复合材料",
+          "desc": "多性能结合"
+        }
+      ],
+      "stories": [
+        {
+          "person": "材料科学家",
+          "story": "新材料研发"
+        }
+      ],
+      "timeline": [
+        {
+          "time": "公元前3000年",
+          "event": "青铜使用"
+        }
+      ],
+      "geography": [
+        {
+          "region": "全球",
+          "feature": "材料应用"
+        }
+      ]
+    },
+    "levels": {
+      "l1": [
+        "材料分类"
+      ],
+      "l2": [
+        "性能关系"
+      ],
+      "l3": [
+        "结构机理"
+      ],
+      "l4": [
+        "前沿研究"
+      ]
+    },
+    "carriers": {
+      "boards": "20-30块",
+      "videos": [
+        {
+          "type": "材料演进动画",
+          "duration": 4
+        }
+      ],
+      "interactive": [
+        {
+          "func": "材料选择",
+          "interface": "触控"
+        }
+      ],
+      "objects": [
+        {
+          "name": "材料样本",
+          "type": "实物"
+        }
+      ],
+      "visualization": [
+        {
+          "data": "性能对比",
+          "form": "雷达图"
+        }
+      ]
+    },
+    "tactics": {
+      "suspense": [
+        "如果没有钢铁?"
+      ],
+      "contrast": [
+        "旧材料vs新材料"
+      ],
+      "analogy": [
+        "材料像性格"
+      ],
+      "plot": "文明的材料史",
+      "resonance": [
+        "日常用品来源"
+      ]
+    }
+  },
+  "experience": {
+    "goals": {
+      "cognitive": "理解材料演进",
+      "emotional": "赞叹科技",
+      "behavioral": "关注材料创新",
+      "social": "讨论未来技术"
+    },
+    "design": {
+      "senses": [
+        {
+          "sense": "触觉",
+          "experience": "材料触摸"
+        }
+      ],
+      "rhythm": "阶段式",
+      "surprise": [
+        "超轻超强材料"
+      ],
+      "memory": [
+        "未来材料实验"
+      ],
+      "photo": [
+        "材料墙"
+      ]
+    },
+    "interaction": {
+      "observation": [],
+      "operation": [],
+      "inquiry": [],
+      "creation": [],
+      "share": []
+    },
+    "participation": {
+      "individual": 3,
+      "group": 3,
+      "family": 4,
+      "community": 2,
+      "continuous": "材料科普平台"
+    },
+    "emotion": {
+      "start": "熟悉",
+      "path": "熟悉→惊讶→期待",
+      "climax": "未来材料展示",
+      "end": "想象",
+      "memory": "材料决定未来"
+    }
+  },
+  "evaluation": {
+    "indicators": {
+      "understanding": 0.87,
+      "satisfaction": 0.9,
+      "duration": 40,
+      "depth": "3.8/5",
+      "behaviorChange": 0.3,
+      "socialShare": 0.6
+    },
+    "methods": {
+      "observation": "触摸互动",
+      "interview": "",
+      "questionnaire": "",
+      "tracking": [
+        "互动数据"
+      ],
+      "focusGroup": ""
+    },
+    "iteration": {
+      "versions": [
+        {
+          "version": "1.0",
+          "change": "初版"
+        }
+      ],
+      "success": [
+        "结构清晰"
+      ],
+      "failure": [
+        "未来部分偏少"
+      ],
+      "suggestions": "加强前沿",
+      "todos": [
+        "更新材料案例"
+      ]
+    },
+    "references": {
+      "similar": [],
+      "global": [
+        {
+          "country": "德国",
+          "case": "材料博物馆"
+        }
+      ],
+      "awards": [],
+      "academic": []
+    },
+    "status": {
+      "maturity": "验证阶段",
+      "count": 4,
+      "agencies": [
+        "工业博物馆"
+      ],
+      "date": "2025-06-01",
+      "report": ""
+    }
+  },
+  "id": "f3cbc098-43f4-4460-be29-b8b7d914c84f",
+  "updatedAt": "2026-01-07T08:24:39.957Z"
+}

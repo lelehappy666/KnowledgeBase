@@ -1,0 +1,200 @@
+{
+  "name": "光的反射与折射",
+  "basic": {
+    "code": "SM-PHY-002",
+    "purpose": "通过互动实验理解光在不同介质中的传播规律"
+  },
+  "dimensions": {
+    "exhibit": {
+      "typeId": "optics-interaction",
+      "subTypes": [
+        "平面镜",
+        "折射槽"
+      ],
+      "interaction": [
+        "调整入射角",
+        "观察光路变化"
+      ],
+      "experience": [
+        "视觉追踪",
+        "路径对比"
+      ]
+    },
+    "subject": {
+      "category": "物理",
+      "branch": "光学",
+      "topic": "光的传播",
+      "standard": "义务教育物理课程标准(2022年版)"
+    },
+    "grade": {
+      "level": "初中",
+      "specific": [
+        "八年级上册"
+      ],
+      "ageRange": "13-14岁",
+      "cognitiveLevel": "形式运算阶段"
+    }
+  },
+  "knowledge": {
+    "principleId": "",
+    "name": "光的反射定律与折射现象",
+    "code": "PHY-OPT-01",
+    "depth": "理解与解释",
+    "type": "陈述性+概念性",
+    "match": {
+      "score": 5,
+      "reason": "实验现象与教材中光路图完全对应。",
+      "pros": [
+        "现象清晰",
+        "误差小"
+      ],
+      "cons": [
+        "对环境光要求较高"
+      ],
+      "complementary": [
+        "光路仿真软件"
+      ]
+    }
+  },
+  "teaching": {
+    "timing": "新课导入",
+    "method": [
+      "演示实验",
+      "探究式"
+    ],
+    "duration": "10-15分钟",
+    "connection": "抽象光路概念的直观呈现",
+    "difficulty": {
+      "cognitive": 2,
+      "operation": 2,
+      "threshold": "理解角度概念",
+      "skills": [
+        "角度测量",
+        "现象记录"
+      ]
+    },
+    "adaptability": {
+      "gender": "无差异",
+      "culture": "普适",
+      "specialNeeds": [],
+      "learningStyle": [
+        "视觉型"
+      ],
+      "personality": [
+        "内向",
+        "外向"
+      ]
+    },
+    "groupFit": {
+      "individual": 4,
+      "group": 4,
+      "class": 5,
+      "family": 3
+    }
+  },
+  "goals": {
+    "knowledge": [
+      "理解光的反射定律",
+      "认识折射现象"
+    ],
+    "ability": [
+      "绘制光路图",
+      "分析实验现象"
+    ],
+    "literacy": [
+      "科学思维"
+    ],
+    "emotion": [
+      "激发探究兴趣"
+    ]
+  },
+  "assessment": {
+    "dimensions": [
+      "光路判断",
+      "实验结论"
+    ],
+    "methods": [
+      "观察",
+      "问答"
+    ],
+    "tools": "学习单",
+    "standards": [],
+    "performance": "能正确描述反射与折射规律"
+  },
+  "outcome": {
+    "works": [
+      "光路图"
+    ],
+    "example": "解释筷子在水中看似弯折的原因",
+    "display": [
+      "展板展示"
+    ]
+  },
+  "implementation": {
+    "conditions": {
+      "space": "1.5平米",
+      "equipment": [
+        "激光笔",
+        "平面镜",
+        "水槽"
+      ],
+      "personnel": "1名讲解员",
+      "safety": "避免激光直射眼睛",
+      "maintenance": "保持镜面清洁"
+    },
+    "resources": {
+      "guide": "光学实验指南.pdf",
+      "manual": "设备说明书.pdf",
+      "background": "几何光学基础",
+      "extended": [],
+      "qa": "为什么折射角会变化？"
+    },
+    "schedule": {
+      "prep": 5,
+      "activity": 15,
+      "cleanup": 5,
+      "bestTime": [
+        "上午",
+        "下午"
+      ]
+    },
+    "cost": {
+      "equipment": 1500,
+      "material": 100,
+      "labor": 100,
+      "total": 1700
+    }
+  },
+  "validation": {
+    "cases": [],
+    "schools": [
+      "实验中学"
+    ],
+    "dates": [
+      "2025-09-20"
+    ],
+    "report": "学生理解效果明显",
+    "feedback": {
+      "student": "原来光是这样走的",
+      "teacher": "非常适合引入新课",
+      "effect": [],
+      "engagement": 4,
+      "satisfaction": 5
+    },
+    "improvement": {
+      "history": [],
+      "todos": [
+        "增加折射介质种类"
+      ],
+      "suggestions": "加强暗环境控制"
+    },
+    "status": {
+      "level": "已验证",
+      "agency": "教研组",
+      "date": "2025-10-01",
+      "report": "通过验收"
+    }
+  },
+  "id": "6bab8577-3ffd-4b9e-be15-db05676d8ab3",
+  "updatedAt": "2026-01-07T07:56:51.543Z"
+}

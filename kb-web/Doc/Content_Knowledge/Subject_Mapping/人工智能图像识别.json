@@ -1,0 +1,190 @@
+{
+  "name": "人工智能图像识别",
+  "basic": {
+    "code": "SM-IT-001",
+    "purpose": "理解人工智能识别图像的基本原理"
+  },
+  "dimensions": {
+    "exhibit": {
+      "typeId": "ai-interaction",
+      "subTypes": [
+        "图像识别",
+        "机器学习"
+      ],
+      "interaction": [
+        "摄像采集",
+        "实时识别"
+      ],
+      "experience": [
+        "即时反馈",
+        "对比判断"
+      ]
+    },
+    "subject": {
+      "category": "信息科技",
+      "branch": "人工智能",
+      "topic": "模式识别",
+      "standard": "义务教育信息科技课程标准(2022年版)"
+    },
+    "grade": {
+      "level": "初中",
+      "specific": [
+        "八年级"
+      ],
+      "ageRange": "13-14岁",
+      "cognitiveLevel": "形式运算阶段"
+    }
+  },
+  "knowledge": {
+    "principleId": "",
+    "name": "图像识别基本原理",
+    "code": "IT-AI-01",
+    "depth": "理解",
+    "type": "概念性",
+    "match": {
+      "score": 5,
+      "reason": "识别结果即时反馈。",
+      "pros": [
+        "参与感强"
+      ],
+      "cons": [
+        "算法细节不可见"
+      ],
+      "complementary": [
+        "AI动画讲解"
+      ]
+    }
+  },
+  "teaching": {
+    "timing": "拓展学习",
+    "method": [
+      "体验式"
+    ],
+    "duration": "10分钟",
+    "connection": "现实AI应用的直观展示",
+    "difficulty": {
+      "cognitive": 2,
+      "operation": 1,
+      "threshold": "无",
+      "skills": [
+        "观察判断"
+      ]
+    },
+    "adaptability": {
+      "gender": "无差异",
+      "culture": "普适",
+      "specialNeeds": [],
+      "learningStyle": [
+        "视觉型"
+      ],
+      "personality": [
+        "所有"
+      ]
+    },
+    "groupFit": {
+      "individual": 4,
+      "group": 4,
+      "class": 4,
+      "family": 5
+    }
+  },
+  "goals": {
+    "knowledge": [
+      "认识人工智能"
+    ],
+    "ability": [
+      "理解识别过程"
+    ],
+    "literacy": [
+      "信息素养"
+    ],
+    "emotion": [
+      "激发科技兴趣"
+    ]
+  },
+  "assessment": {
+    "dimensions": [
+      "理解程度"
+    ],
+    "methods": [
+      "问答"
+    ],
+    "tools": "体验反馈单",
+    "standards": [],
+    "performance": "能说出AI识别大致流程"
+  },
+  "outcome": {
+    "works": [
+      "识别截图"
+    ],
+    "example": "体验人脸或物体识别",
+    "display": [
+      "屏幕展示"
+    ]
+  },
+  "implementation": {
+    "conditions": {
+      "space": "1平米",
+      "equipment": [
+        "摄像头",
+        "触控屏"
+      ],
+      "personnel": "1名辅导员",
+      "safety": "注意隐私提示",
+      "maintenance": "系统升级"
+    },
+    "resources": {
+      "guide": "AI体验指南.pdf",
+      "manual": "系统说明.pdf",
+      "background": "人工智能概述",
+      "extended": [],
+      "qa": "AI为什么会识别错误？"
+    },
+    "schedule": {
+      "prep": 5,
+      "activity": 10,
+      "cleanup": 5,
+      "bestTime": [
+        "全天"
+      ]
+    },
+    "cost": {
+      "equipment": 6000,
+      "material": 0,
+      "labor": 100,
+      "total": 6100
+    }
+  },
+  "validation": {
+    "cases": [],
+    "schools": [
+      "实验中学"
+    ],
+    "dates": [
+      "2025-11-01"
+    ],
+    "report": "学生兴趣浓厚",
+    "feedback": {
+      "student": "原来AI是这样工作的",
+      "teacher": "很好的前沿补充",
+      "effect": [],
+      "engagement": 5,
+      "satisfaction": 5
+    },
+    "improvement": {
+      "history": [],
+      "todos": [
+        "增加训练示例"
+      ],
+      "suggestions": "引入伦理讨论"
+    },
+    "status": {
+      "level": "已验证",
+      "agency": "教研组",
+      "date": "2025-11-15",
+      "report": "通过验收"
+    }
+  },
+  "id": "6fd505f9-e74d-44f7-8d7c-2f103df940c3",
+  "updatedAt": "2026-01-07T08:00:17.504Z"
+}

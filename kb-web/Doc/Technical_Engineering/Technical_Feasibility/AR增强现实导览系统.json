@@ -1,0 +1,96 @@
+{
+  "name": "AR增强现实导览系统",
+  "basic": {
+    "id": "TECH-AR-003",
+    "category": "增强现实技术",
+    "description": "基于移动终端与空间识别的AR科普导览系统",
+    "keywords": [
+      "AR",
+      "空间识别",
+      "数字导览"
+    ],
+    "source": "自研"
+  },
+  "specs": {
+    "dimensions": "软件系统",
+    "weight": "无",
+    "power": "终端供电",
+    "materials": [
+      "移动终端",
+      "无线网络"
+    ],
+    "network": "WiFi 6",
+    "software": "Unity3D / AR Foundation"
+  },
+  "analysis": {
+    "maturity": {
+      "trl": 9,
+      "status": "商业成熟",
+      "cases": 100
+    },
+    "stability": {
+      "mtbf": "长期稳定",
+      "durability": "高",
+      "maintenanceCycle": "6个月"
+    },
+    "safety": {
+      "risks": [
+        "用户分心行走"
+      ],
+      "measures": [
+        "设置安全提示",
+        "限制使用区域"
+      ],
+      "certifications": [
+        "软件著作权"
+      ]
+    },
+    "riskLevel": "Low"
+  },
+  "requirements": {
+    "environment": {
+      "temperature": "0-40℃",
+      "humidity": "10-90%",
+      "lighting": "自然光或室内灯光",
+      "noise": "无要求"
+    },
+    "installation": {
+      "space": "全馆覆盖",
+      "loadBearing": "无",
+      "difficulty": 2,
+      "time": "1天"
+    },
+    "skill": {
+      "development": [
+        "AR内容制作",
+        "空间标定"
+      ],
+      "operation": [
+        "终端管理",
+        "内容更新"
+      ]
+    }
+  },
+  "cost": {
+    "development": 80000,
+    "hardware": 50000,
+    "software": 10000,
+    "deployment": 10000,
+    "maintenance": 8000,
+    "total": 158000
+  },
+  "interaction": {
+    "input": [
+      "摄像头识别",
+      "触控"
+    ],
+    "output": [
+      "AR叠加影像",
+      "文字说明"
+    ],
+    "latency": "<80ms",
+    "throughput": "单人制"
+  },
+  "id": "d50e2828-fe34-4fdd-b6be-b4db03eb3226",
+  "updatedAt": "2026-01-07T08:41:36.311Z"
+}

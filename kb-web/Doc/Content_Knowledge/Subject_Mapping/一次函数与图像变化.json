@@ -1,0 +1,189 @@
+{
+  "name": "一次函数与图像变化",
+  "basic": {
+    "code": "SM-MATH-001",
+    "purpose": "理解一次函数中变量变化关系"
+  },
+  "dimensions": {
+    "exhibit": {
+      "typeId": "math-visualization",
+      "subTypes": [
+        "函数图像",
+        "参数调节"
+      ],
+      "interaction": [
+        "拖动参数",
+        "观察图像变化"
+      ],
+      "experience": [
+        "动态变化",
+        "规律发现"
+      ]
+    },
+    "subject": {
+      "category": "数学",
+      "branch": "代数",
+      "topic": "函数",
+      "standard": "义务教育数学课程标准(2022年版)"
+    },
+    "grade": {
+      "level": "初中",
+      "specific": [
+        "八年级上册"
+      ],
+      "ageRange": "13-14岁",
+      "cognitiveLevel": "形式运算阶段"
+    }
+  },
+  "knowledge": {
+    "principleId": "",
+    "name": "一次函数变化规律",
+    "code": "MAT-FUN-01",
+    "depth": "理解与应用",
+    "type": "概念性",
+    "match": {
+      "score": 5,
+      "reason": "图像变化直观呈现参数作用。",
+      "pros": [
+        "动态清晰"
+      ],
+      "cons": [
+        "需要基础函数概念"
+      ],
+      "complementary": [
+        "纸笔练习"
+      ]
+    }
+  },
+  "teaching": {
+    "timing": "新课巩固",
+    "method": [
+      "探究式"
+    ],
+    "duration": "15分钟",
+    "connection": "抽象函数的可视化",
+    "difficulty": {
+      "cognitive": 3,
+      "operation": 1,
+      "threshold": "理解坐标系",
+      "skills": [
+        "观察比较"
+      ]
+    },
+    "adaptability": {
+      "gender": "无差异",
+      "culture": "普适",
+      "specialNeeds": [],
+      "learningStyle": [
+        "视觉型"
+      ],
+      "personality": [
+        "所有"
+      ]
+    },
+    "groupFit": {
+      "individual": 4,
+      "group": 4,
+      "class": 5,
+      "family": 3
+    }
+  },
+  "goals": {
+    "knowledge": [
+      "理解斜率意义"
+    ],
+    "ability": [
+      "分析函数变化"
+    ],
+    "literacy": [
+      "数学抽象"
+    ],
+    "emotion": [
+      "增强信心"
+    ]
+  },
+  "assessment": {
+    "dimensions": [
+      "变化判断"
+    ],
+    "methods": [
+      "操作观察"
+    ],
+    "tools": "任务单",
+    "standards": [],
+    "performance": "能正确判断参数影响"
+  },
+  "outcome": {
+    "works": [
+      "函数图像截图"
+    ],
+    "example": "比较不同斜率的函数",
+    "display": [
+      "屏幕展示"
+    ]
+  },
+  "implementation": {
+    "conditions": {
+      "space": "1平米",
+      "equipment": [
+        "触控屏"
+      ],
+      "personnel": "1名辅导员",
+      "safety": "无",
+      "maintenance": "系统更新"
+    },
+    "resources": {
+      "guide": "函数探究指南.pdf",
+      "manual": "系统说明.pdf",
+      "background": "代数基础",
+      "extended": [],
+      "qa": "斜率变大意味着什么？"
+    },
+    "schedule": {
+      "prep": 5,
+      "activity": 15,
+      "cleanup": 5,
+      "bestTime": [
+        "全天"
+      ]
+    },
+    "cost": {
+      "equipment": 4000,
+      "material": 0,
+      "labor": 100,
+      "total": 4100
+    }
+  },
+  "validation": {
+    "cases": [],
+    "schools": [
+      "实验中学"
+    ],
+    "dates": [
+      "2025-10-12"
+    ],
+    "report": "抽象理解明显改善",
+    "feedback": {
+      "student": "函数不再难懂",
+      "teacher": "非常适合教学",
+      "effect": [],
+      "engagement": 4,
+      "satisfaction": 5
+    },
+    "improvement": {
+      "history": [],
+      "todos": [
+        "增加二次函数"
+      ],
+      "suggestions": "加入练习模式"
+    },
+    "status": {
+      "level": "已验证",
+      "agency": "教研组",
+      "date": "2025-10-28",
+      "report": "通过验收"
+    }
+  },
+  "id": "4b8c3a22-dc0f-484d-a340-ff4817f7b5ae",
+  "updatedAt": "2026-01-07T08:00:03.846Z"
+}

@@ -1,0 +1,363 @@
+{
+  "name": "看不见的世界：从微观到量子",
+  "basic": {
+    "id": "THEME_MICRO_001",
+    "aliases": [
+      "微观世界",
+      "量子世界"
+    ],
+    "icon": "micro-icon.png",
+    "color": "#9C27B0",
+    "slogan": "肉眼之外，真实存在",
+    "abstract": "揭示肉眼不可见的微观结构与量子现象，理解现代科学如何改变人类对世界的认知。",
+    "attributes": {
+      "type": "科学主题",
+      "scale": "大型主题",
+      "timeliness": "长期主题",
+      "importance": "重点主题",
+      "urgency": "中"
+    },
+    "relations": {
+      "subjects": [
+        "物理",
+        "化学",
+        "生物"
+      ],
+      "domains": [
+        "基础科学",
+        "前沿科技"
+      ],
+      "sdgs": [
+        "目标9:产业创新"
+      ],
+      "keywords": [
+        "原子",
+        "量子",
+        "微观结构"
+      ]
+    }
+  },
+  "structure": {
+    "framework": {
+      "type": "尺度递进叙事",
+      "perspective": "探索者视角",
+      "rhythm": "逐层深入",
+      "emotionCurve": "好奇→困惑→震撼→敬畏",
+      "goal": "打破对‘看不见即不存在’的直觉"
+    },
+    "stages": [
+      {
+        "name": "微米世界",
+        "desc": "细胞与微生物",
+        "duration": 8
+      },
+      {
+        "name": "纳米世界",
+        "desc": "分子与原子",
+        "duration": 8
+      },
+      {
+        "name": "量子世界",
+        "desc": "概率与不确定性",
+        "duration": 12
+      }
+    ],
+    "points": {
+      "turning": [
+        "显微镜发明",
+        "原子理论",
+        "量子力学建立"
+      ],
+      "climax": "量子世界沉浸体验",
+      "ending": "科学并不符合直觉"
+    },
+    "elements": {
+      "protagonist": "微观结构",
+      "conflict": "直觉经验与科学事实的冲突",
+      "suspense": [
+        "电子在哪里?",
+        "世界是否确定?"
+      ],
+      "metaphor": [
+        "世界像洋葱",
+        "现实是概率云"
+      ],
+      "quotes": [
+        "如果你理解了量子力学，那你一定没理解"
+      ]
+    },
+    "cognition": {
+      "start": "世界是连续的",
+      "goal": "理解微观离散与量子不确定",
+      "ladder": [
+        {
+          "level": 1,
+          "cognition": "识别尺度",
+          "activity": "尺度缩放"
+        },
+        {
+          "level": 2,
+          "cognition": "理解概率",
+          "activity": "量子骰子"
+        }
+      ],
+      "obstacles": [
+        "反直觉",
+        "数学抽象"
+      ],
+      "breakthroughs": [
+        "视觉化",
+        "类比实验"
+      ]
+    }
+  },
+  "configuration": {
+    "exhibits": {
+      "suitableTypes": [],
+      "functionTable": [
+        {
+          "type": "互动展项",
+          "func": "尺度体验"
+        }
+      ],
+      "combinations": [
+        {
+          "name": "微观之旅",
+          "exhibits": []
+        }
+      ],
+      "core": [],
+      "auxiliary": []
+    },
+    "layout": {
+      "space": "中大型展区",
+      "area": 350,
+      "type": "递进流线",
+      "flowChart": "",
+      "zones": [
+        {
+          "name": "量子区",
+          "func": "沉浸体验"
+        }
+      ],
+      "focus": [
+        "尺度入口",
+        "量子核心"
+      ],
+      "transition": "空间尺度变化",
+      "restPoints": [
+        {
+          "location": "量子区后",
+          "func": "消化区"
+        }
+      ]
+    },
+    "examples": {
+      "visual": [],
+      "mechanical": [],
+      "data": [],
+      "immersive": [],
+      "interactive": [],
+      "art": []
+    }
+  },
+  "content": {
+    "framework": {
+      "core": [
+        "微观决定宏观"
+      ],
+      "data": [
+        {
+          "label": "原子尺度",
+          "value": "10^-10 米"
+        }
+      ],
+      "concepts": [
+        {
+          "name": "不确定性原理",
+          "desc": "无法同时精确测量"
+        }
+      ],
+      "stories": [
+        {
+          "person": "海森堡",
+          "story": "量子革命"
+        }
+      ],
+      "timeline": [
+        {
+          "time": "1927",
+          "event": "不确定性原理提出"
+        }
+      ],
+      "geography": [
+        {
+          "region": "实验室",
+          "feature": "微观探索前沿"
+        }
+      ]
+    },
+    "levels": {
+      "l1": [
+        "微观存在"
+      ],
+      "l2": [
+        "原子结构"
+      ],
+      "l3": [
+        "量子现象"
+      ],
+      "l4": [
+        "理论争议"
+      ]
+    },
+    "carriers": {
+      "boards": "18-25块",
+      "videos": [
+        {
+          "type": "量子动画",
+          "duration": 3
+        }
+      ],
+      "interactive": [
+        {
+          "func": "量子测量",
+          "interface": "体感+触屏"
+        }
+      ],
+      "objects": [
+        {
+          "name": "显微模型",
+          "type": "模型"
+        }
+      ],
+      "visualization": [
+        {
+          "data": "尺度对比",
+          "form": "指数缩放图"
+        }
+      ]
+    },
+    "tactics": {
+      "suspense": [
+        "世界真的确定吗?"
+      ],
+      "contrast": [
+        "宏观vs微观"
+      ],
+      "analogy": [
+        "电子像云"
+      ],
+      "plot": "不断缩小的探索之旅",
+      "resonance": [
+        "科技改变认知"
+      ]
+    }
+  },
+  "experience": {
+    "goals": {
+      "cognitive": "理解微观世界",
+      "emotional": "敬畏科学",
+      "behavioral": "关注前沿科技",
+      "social": "讨论科学边界"
+    },
+    "design": {
+      "senses": [
+        {
+          "sense": "视觉",
+          "experience": "尺度变换空间"
+        }
+      ],
+      "rhythm": "层层深入",
+      "surprise": [
+        "量子随机结果"
+      ],
+      "memory": [
+        "量子抉择瞬间"
+      ],
+      "photo": [
+        "量子空间合影"
+      ]
+    },
+    "interaction": {
+      "observation": [],
+      "operation": [],
+      "inquiry": [],
+      "creation": [],
+      "share": []
+    },
+    "participation": {
+      "individual": 4,
+      "group": 3,
+      "family": 2,
+      "community": 2,
+      "continuous": "线上量子实验"
+    },
+    "emotion": {
+      "start": "好奇",
+      "path": "好奇→困惑→震撼",
+      "climax": "量子体验",
+      "end": "敬畏",
+      "memory": "世界并非我想象的那样"
+    }
+  },
+  "evaluation": {
+    "indicators": {
+      "understanding": 0.82,
+      "satisfaction": 0.88,
+      "duration": 40,
+      "depth": "4.2/5",
+      "behaviorChange": 0.25,
+      "socialShare": 0.55
+    },
+    "methods": {
+      "observation": "停留与重复体验",
+      "interview": "",
+      "questionnaire": "",
+      "tracking": [
+        "交互日志"
+      ],
+      "focusGroup": ""
+    },
+    "iteration": {
+      "versions": [
+        {
+          "version": "2.0",
+          "change": "强化类比"
+        }
+      ],
+      "success": [
+        "震撼感强"
+      ],
+      "failure": [
+        "理解门槛高"
+      ],
+      "suggestions": "加强引导",
+      "todos": [
+        "儿童模式"
+      ]
+    },
+    "references": {
+      "similar": [],
+      "global": [
+        {
+          "country": "瑞士",
+          "case": "量子科普展"
+        }
+      ],
+      "awards": [],
+      "academic": []
+    },
+    "status": {
+      "maturity": "验证阶段",
+      "count": 4,
+      "agencies": [
+        "科技馆"
+      ],
+      "date": "2025-09-01",
+      "report": ""
+    }
+  },
+  "id": "e47b67f5-6b02-4583-9097-14ca98a8a73c",
+  "updatedAt": "2026-01-07T08:19:49.276Z"
+}

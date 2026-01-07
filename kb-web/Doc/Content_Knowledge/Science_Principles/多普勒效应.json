@@ -1,0 +1,191 @@
+{
+  "name": "多普勒效应",
+  "basic": {
+    "aliases": [
+      "多普勒现象"
+    ],
+    "enName": "Doppler Effect",
+    "abstract": "当波源与观察者发生相对运动时，接收到的频率发生变化的现象",
+    "history": "1842年由多普勒提出"
+  },
+  "classification": {
+    "category": "物理",
+    "subCategory": "波动",
+    "crossDiscipline": [
+      "天文学",
+      "医学"
+    ],
+    "knowledgeSystem": "经典物理",
+    "difficultyLevel": "中等"
+  },
+  "education": {
+    "gradeLevel": [
+      "初中",
+      "高中"
+    ],
+    "gradeSpecific": [
+      "九年级",
+      "高一"
+    ],
+    "curriculum": {
+      "standard": [
+        {
+          "version": "人教版",
+          "grade": "9",
+          "chapter": "声与波"
+        }
+      ],
+      "requirements": "理解频率变化原因",
+      "knowledgePointId": "PHY-09-03-02",
+      "coreLiteracy": [
+        "科学解释"
+      ],
+      "abilityGoals": [
+        "解释警笛变调现象"
+      ],
+      "cognitiveLevel": "应用"
+    },
+    "teaching": {
+      "misconceptions": [
+        "音调变化是音量变化造成的"
+      ],
+      "difficulties": "相对运动理解",
+      "suggestions": "结合生活案例",
+      "safety": "注意实验设备稳定"
+    }
+  },
+  "exhibitRelation": {
+    "exhibitability": "较易展示",
+    "suitableTypes": [],
+    "existingCases": [],
+    "creativeIdeas": [
+      {
+        "name": "移动声源体验",
+        "desc": "推动车体听音调变化"
+      }
+    ],
+    "design": {
+      "visualStrategy": "声波频谱显示",
+      "interactionPoints": [
+        "改变移动速度"
+      ],
+      "experiencePoints": [
+        "真实感:贴近生活"
+      ],
+      "techPath": [
+        "扬声器",
+        "传感器"
+      ]
+    },
+    "difficulty": {
+      "understanding": 3,
+      "operation": 2,
+      "immersion": 3,
+      "memory": 4
+    }
+  },
+  "activity": {
+    "curriculum": {
+      "theme": "会变调的声音",
+      "type": [
+        "实验课"
+      ],
+      "duration": "40分钟",
+      "location": [
+        "教室",
+        "展厅"
+      ],
+      "audienceSize": "10-30人"
+    },
+    "project": {
+      "theme": "测速原理探究",
+      "cycle": "1周",
+      "drivingQuestion": "如何用声音测速度？",
+      "outcome": [
+        "实验报告"
+      ],
+      "evaluationRubric": ""
+    },
+    "resources": {
+      "ppt": "",
+      "guide": "",
+      "manual": "",
+      "video": "",
+      "materials": "",
+      "equipment": [
+        {
+          "name": "移动声源装置",
+          "count": 1
+        }
+      ],
+      "cost": 400
+    }
+  },
+  "crossDisciplinary": {
+    "steam": {
+      "s": [
+        "波动传播"
+      ],
+      "t": [
+        "雷达技术"
+      ],
+      "e": [
+        "测速系统"
+      ],
+      "a": [
+        "声音设计"
+      ],
+      "m": [
+        "比例计算"
+      ]
+    },
+    "application": {
+      "daily": [
+        "警车鸣笛"
+      ],
+      "industrial": [
+        "雷达测速"
+      ],
+      "research": [
+        "天体运动"
+      ],
+      "medical": [
+        "超声血流检测"
+      ],
+      "military": [
+        "目标探测"
+      ]
+    },
+    "frontier": {
+      "research": "高精度多普勒成像",
+      "unsolved": [],
+      "trends": "智能雷达系统"
+    }
+  },
+  "evaluation": {
+    "teaching": {
+      "indicators": [
+        "能解释频率变化"
+      ],
+      "methods": [
+        "情景分析"
+      ],
+      "tools": "",
+      "data": []
+    },
+    "exhibit": {
+      "effect": 4,
+      "feedback": "贴近生活",
+      "suggestions": "增加视觉反馈"
+    },
+    "content": {
+      "accuracy": "已验证",
+      "timeliness": "稳定",
+      "completeness": 5,
+      "utility": 4,
+      "popularity": 4
+    }
+  },
+  "id": "11f5a177-8682-4b94-9207-e56ff49d033b",
+  "updatedAt": "2026-01-07T07:44:10.234Z"
+}

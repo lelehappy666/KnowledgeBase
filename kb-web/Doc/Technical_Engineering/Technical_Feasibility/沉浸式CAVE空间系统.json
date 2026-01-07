@@ -1,0 +1,100 @@
+{
+  "name": "沉浸式CAVE空间系统",
+  "basic": {
+    "id": "TECH-VIS-002",
+    "category": "沉浸式显示技术",
+    "description": "基于多面投影与立体视觉的CAVE沉浸式虚拟现实系统",
+    "keywords": [
+      "CAVE",
+      "沉浸式",
+      "多通道投影",
+      "虚拟现实"
+    ],
+    "source": "定制开发"
+  },
+  "specs": {
+    "dimensions": "4m x 4m x 3m",
+    "weight": "600kg",
+    "power": "3500W",
+    "materials": [
+      "金属框架",
+      "投影幕布",
+      "光学涂层玻璃"
+    ],
+    "network": "万兆以太网",
+    "software": "Unity3D / VRPN"
+  },
+  "analysis": {
+    "maturity": {
+      "trl": 8,
+      "status": "工程成熟",
+      "cases": 30
+    },
+    "stability": {
+      "mtbf": "4000小时",
+      "durability": "高",
+      "maintenanceCycle": "2个月"
+    },
+    "safety": {
+      "risks": [
+        "人员眩晕",
+        "投影设备过热"
+      ],
+      "measures": [
+        "限制体验时长",
+        "设置主动散热系统"
+      ],
+      "certifications": [
+        "CE",
+        "ISO9001"
+      ]
+    },
+    "riskLevel": "Medium"
+  },
+  "requirements": {
+    "environment": {
+      "temperature": "15-30℃",
+      "humidity": "30-70%",
+      "lighting": "全暗环境",
+      "noise": "<45dB"
+    },
+    "installation": {
+      "space": "5m x 5m 独立空间",
+      "loadBearing": ">300kg/m2",
+      "difficulty": 4,
+      "time": "5天"
+    },
+    "skill": {
+      "development": [
+        "三维实时渲染",
+        "多通道同步"
+      ],
+      "operation": [
+        "系统校准",
+        "投影维护"
+      ]
+    }
+  },
+  "cost": {
+    "development": 120000,
+    "hardware": 300000,
+    "software": 50000,
+    "deployment": 30000,
+    "maintenance": 15000,
+    "total": 515000
+  },
+  "interaction": {
+    "input": [
+      "定位追踪",
+      "手柄交互"
+    ],
+    "output": [
+      "立体影像",
+      "环绕声"
+    ],
+    "latency": "<30ms",
+    "throughput": "5-8人/批"
+  },
+  "id": "a1200b24-9509-490d-a98c-ab6f26478ea7",
+  "updatedAt": "2026-01-07T08:40:56.193Z"
+}

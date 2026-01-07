@@ -1,0 +1,98 @@
+{
+  "name": "伯努利原理",
+  "basic": {
+    "aliases": [
+      "流体压力原理"
+    ],
+    "enName": "Bernoulli Principle",
+    "abstract": "流体速度越大，其压强越小的规律",
+    "history": "1738年丹尼尔·伯努利提出"
+  },
+  "classification": {
+    "category": "物理",
+    "subCategory": "流体力学",
+    "crossDiscipline": [
+      "航空工程",
+      "建筑工程"
+    ],
+    "knowledgeSystem": "经典物理",
+    "difficultyLevel": "入门级"
+  },
+  "education": {
+    "gradeLevel": [
+      "初中",
+      "高中"
+    ],
+    "gradeSpecific": [
+      "八年级",
+      "高一"
+    ],
+    "curriculum": {
+      "standard": [
+        {
+          "version": "人教版",
+          "grade": "8",
+          "chapter": "力与运动"
+        }
+      ],
+      "requirements": "理解速度与压强关系",
+      "knowledgePointId": "PHY-08-04-01",
+      "coreLiteracy": [
+        "科学解释"
+      ],
+      "abilityGoals": [
+        "解释升力来源"
+      ],
+      "cognitiveLevel": "理解"
+    },
+    "teaching": {
+      "misconceptions": [
+        "只有空气才符合伯努利原理"
+      ],
+      "difficulties": "流体抽象概念",
+      "suggestions": "用纸条实验引入",
+      "safety": "注意气流设备安全"
+    }
+  },
+  "exhibitRelation": {
+    "exhibitability": "非常适合展示",
+    "suitableTypes": [],
+    "existingCases": [],
+    "creativeIdeas": [
+      {
+        "name": "悬浮球装置",
+        "desc": "气流托起小球"
+      }
+    ],
+    "design": {
+      "visualStrategy": "气流可视化",
+      "interactionPoints": [
+        "调节风速"
+      ],
+      "experiencePoints": [
+        "反直觉体验"
+      ],
+      "techPath": [
+        "风机",
+        "传感器"
+      ]
+    },
+    "difficulty": {
+      "understanding": 3,
+      "operation": 2,
+      "immersion": 4,
+      "memory": 4
+    }
+  },
+  "activity": {
+    "...": "同模板略"
+  },
+  "crossDisciplinary": {
+    "...": "同模板略"
+  },
+  "evaluation": {
+    "...": "同模板略"
+  },
+  "id": "5291f765-cb36-4fed-952f-a97e873ce240",
+  "updatedAt": "2026-01-07T07:42:12.699Z"
+}

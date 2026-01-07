@@ -1,0 +1,199 @@
+{
+  "name": "电磁感应原理",
+  "basic": {
+    "aliases": [
+      "电磁感应现象"
+    ],
+    "enName": "Electromagnetic Induction",
+    "abstract": "当穿过闭合回路的磁通量发生变化时，回路中会产生感应电流的现象",
+    "history": "1831年由法拉第发现，是现代电力技术的基础"
+  },
+  "classification": {
+    "category": "物理",
+    "subCategory": "电磁学",
+    "crossDiscipline": [
+      "电气工程",
+      "能源工程"
+    ],
+    "knowledgeSystem": "经典物理",
+    "difficultyLevel": "中等"
+  },
+  "education": {
+    "gradeLevel": [
+      "初中",
+      "高中"
+    ],
+    "gradeSpecific": [
+      "九年级",
+      "高二"
+    ],
+    "curriculum": {
+      "standard": [
+        {
+          "version": "人教版",
+          "grade": "9",
+          "chapter": "电与磁"
+        }
+      ],
+      "requirements": "理解磁生电的条件和基本规律",
+      "knowledgePointId": "PHY-09-05-01",
+      "coreLiteracy": [
+        "科学观念",
+        "工程思维"
+      ],
+      "abilityGoals": [
+        "能描述电磁感应现象",
+        "能解释发电机工作原理"
+      ],
+      "cognitiveLevel": "应用"
+    },
+    "teaching": {
+      "misconceptions": [
+        "只要有磁铁就一定有电流"
+      ],
+      "difficulties": "磁通量变化的理解",
+      "suggestions": "结合线圈与电流表实验",
+      "safety": "避免强磁场靠近电子设备"
+    }
+  },
+  "exhibitRelation": {
+    "exhibitability": "非常适合展示",
+    "suitableTypes": [],
+    "existingCases": [],
+    "creativeIdeas": [
+      {
+        "name": "手摇发电体验",
+        "desc": "通过转动线圈点亮灯泡"
+      }
+    ],
+    "design": {
+      "visualStrategy": "电流指示与灯光反馈",
+      "interactionPoints": [
+        "转动线圈",
+        "更换磁铁强度"
+      ],
+      "experiencePoints": [
+        "参与感:自己发电"
+      ],
+      "techPath": [
+        "线圈",
+        "磁铁",
+        "传感器"
+      ]
+    },
+    "difficulty": {
+      "understanding": 3,
+      "operation": 2,
+      "immersion": 4,
+      "memory": 4
+    }
+  },
+  "activity": {
+    "curriculum": {
+      "theme": "电是怎么产生的",
+      "type": [
+        "实验课",
+        "探究课"
+      ],
+      "duration": "45分钟",
+      "location": [
+        "教室",
+        "实验室",
+        "展厅"
+      ],
+      "audienceSize": "10-25人"
+    },
+    "project": {
+      "theme": "制作简易发电机",
+      "cycle": "1周",
+      "drivingQuestion": "如何把机械能转化为电能？",
+      "outcome": [
+        "简易发电装置"
+      ],
+      "evaluationRubric": ""
+    },
+    "resources": {
+      "ppt": "",
+      "guide": "",
+      "manual": "",
+      "video": "",
+      "materials": "",
+      "equipment": [
+        {
+          "name": "线圈组件",
+          "count": 5
+        }
+      ],
+      "cost": 600
+    }
+  },
+  "crossDisciplinary": {
+    "steam": {
+      "s": [
+        "磁场变化"
+      ],
+      "t": [
+        "发电技术"
+      ],
+      "e": [
+        "电机设计"
+      ],
+      "a": [
+        "结构美学"
+      ],
+      "m": [
+        "函数关系"
+      ]
+    },
+    "application": {
+      "daily": [
+        "发电机"
+      ],
+      "industrial": [
+        "电力生产"
+      ],
+      "research": [
+        "无线能量传输"
+      ],
+      "medical": [
+        "核磁共振"
+      ],
+      "military": [
+        "电磁设备"
+      ]
+    },
+    "frontier": {
+      "research": "无线感应供电",
+      "unsolved": [
+        "高效远距离传输"
+      ],
+      "trends": "新能源电磁技术"
+    }
+  },
+  "evaluation": {
+    "teaching": {
+      "indicators": [
+        "能否解释磁生电"
+      ],
+      "methods": [
+        "实验报告"
+      ],
+      "tools": "",
+      "data": []
+    },
+    "exhibit": {
+      "effect": 5,
+      "feedback": "参与度很高",
+      "suggestions": "增加功率对比展示"
+    },
+    "content": {
+      "accuracy": "已验证",
+      "timeliness": "稳定",
+      "completeness": 5,
+      "utility": 5,
+      "popularity": 5
+    }
+  },
+  "id": "97ec05cb-28ab-479d-8b42-39c943c5dbf2",
+  "updatedAt": "2026-01-07T07:43:57.802Z"
+}

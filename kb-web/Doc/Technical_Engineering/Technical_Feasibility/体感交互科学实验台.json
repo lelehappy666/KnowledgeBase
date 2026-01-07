@@ -1,0 +1,95 @@
+{
+  "name": "体感交互科学实验台",
+  "basic": {
+    "id": "TECH-INT-005",
+    "category": "体感交互技术",
+    "description": "基于深度摄像头的无接触式科学互动实验平台",
+    "keywords": [
+      "体感",
+      "无接触",
+      "科学实验"
+    ],
+    "source": "定制开发"
+  },
+  "specs": {
+    "dimensions": "2.5m x 1.5m x 2.2m",
+    "weight": "200kg",
+    "power": "600W",
+    "materials": [
+      "钢结构",
+      "亚克力面板"
+    ],
+    "network": "千兆以太网",
+    "software": "Unity3D"
+  },
+  "analysis": {
+    "maturity": {
+      "trl": 8,
+      "status": "成熟应用",
+      "cases": 40
+    },
+    "stability": {
+      "mtbf": "4500小时",
+      "durability": "中高",
+      "maintenanceCycle": "3个月"
+    },
+    "safety": {
+      "risks": [
+        "儿童碰撞"
+      ],
+      "measures": [
+        "圆角设计",
+        "防滑地面"
+      ],
+      "certifications": [
+        "CCC"
+      ]
+    },
+    "riskLevel": "Low"
+  },
+  "requirements": {
+    "environment": {
+      "temperature": "10-35℃",
+      "humidity": "20-80%",
+      "lighting": "正常室内光",
+      "noise": "<50dB"
+    },
+    "installation": {
+      "space": "3m x 3m",
+      "loadBearing": ">250kg/m2",
+      "difficulty": 3,
+      "time": "2天"
+    },
+    "skill": {
+      "development": [
+        "体感算法",
+        "互动逻辑"
+      ],
+      "operation": [
+        "开关机",
+        "基础维护"
+      ]
+    }
+  },
+  "cost": {
+    "development": 70000,
+    "hardware": 90000,
+    "software": 20000,
+    "deployment": 15000,
+    "maintenance": 8000,
+    "total": 203000
+  },
+  "interaction": {
+    "input": [
+      "人体动作"
+    ],
+    "output": [
+      "动态图像",
+      "音效反馈"
+    ],
+    "latency": "<60ms",
+    "throughput": "1-2人"
+  },
+  "id": "1525c1e3-84b7-4698-a36d-2fcba635c3af",
+  "updatedAt": "2026-01-07T08:42:03.412Z"
+}

@@ -1,0 +1,194 @@
+{
+  "name": "酸碱中和反应",
+  "basic": {
+    "code": "SM-CHE-001",
+    "purpose": "理解酸和碱反应生成盐和水的过程"
+  },
+  "dimensions": {
+    "exhibit": {
+      "typeId": "chemical-reaction",
+      "subTypes": [
+        "中和反应",
+        "指示剂实验"
+      ],
+      "interaction": [
+        "滴加溶液",
+        "观察颜色变化"
+      ],
+      "experience": [
+        "视觉变化",
+        "动手操作"
+      ]
+    },
+    "subject": {
+      "category": "化学",
+      "branch": "基础化学",
+      "topic": "化学反应",
+      "standard": "义务教育化学课程标准(2022年版)"
+    },
+    "grade": {
+      "level": "初中",
+      "specific": [
+        "九年级"
+      ],
+      "ageRange": "14-15岁",
+      "cognitiveLevel": "形式运算阶段"
+    }
+  },
+  "knowledge": {
+    "principleId": "",
+    "name": "酸碱中和原理",
+    "code": "CHE-REA-02",
+    "depth": "理解",
+    "type": "概念性+程序性",
+    "match": {
+      "score": 5,
+      "reason": "颜色变化直观体现反应过程。",
+      "pros": [
+        "现象明显",
+        "安全性高"
+      ],
+      "cons": [
+        "定量分析有限"
+      ],
+      "complementary": [
+        "滴定实验"
+      ]
+    }
+  },
+  "teaching": {
+    "timing": "新课讲解",
+    "method": [
+      "实验探究"
+    ],
+    "duration": "15分钟",
+    "connection": "教材反应方程的直观补充",
+    "difficulty": {
+      "cognitive": 3,
+      "operation": 2,
+      "threshold": "认识酸碱概念",
+      "skills": [
+        "观察记录"
+      ]
+    },
+    "adaptability": {
+      "gender": "无差异",
+      "culture": "普适",
+      "specialNeeds": [],
+      "learningStyle": [
+        "视觉型",
+        "动觉型"
+      ],
+      "personality": [
+        "所有"
+      ]
+    },
+    "groupFit": {
+      "individual": 3,
+      "group": 5,
+      "class": 4,
+      "family": 3
+    }
+  },
+  "goals": {
+    "knowledge": [
+      "理解中和反应"
+    ],
+    "ability": [
+      "判断溶液酸碱性"
+    ],
+    "literacy": [
+      "科学探究"
+    ],
+    "emotion": [
+      "增强实验兴趣"
+    ]
+  },
+  "assessment": {
+    "dimensions": [
+      "现象判断",
+      "结论表述"
+    ],
+    "methods": [
+      "观察量表"
+    ],
+    "tools": "实验记录单",
+    "standards": [],
+    "performance": "能正确判断反应结果"
+  },
+  "outcome": {
+    "works": [
+      "实验记录表"
+    ],
+    "example": "解释胃酸过多为何用碱性药物",
+    "display": [
+      "成果展示"
+    ]
+  },
+  "implementation": {
+    "conditions": {
+      "space": "1平米",
+      "equipment": [
+        "酸碱溶液",
+        "指示剂",
+        "滴管"
+      ],
+      "personnel": "1名辅导员",
+      "safety": "避免溶液入口",
+      "maintenance": "及时更换试剂"
+    },
+    "resources": {
+      "guide": "中和反应实验指南.pdf",
+      "manual": "安全操作手册.pdf",
+      "background": "酸碱理论基础",
+      "extended": [],
+      "qa": "为什么会发生颜色变化？"
+    },
+    "schedule": {
+      "prep": 5,
+      "activity": 15,
+      "cleanup": 5,
+      "bestTime": [
+        "上午"
+      ]
+    },
+    "cost": {
+      "equipment": 1200,
+      "material": 200,
+      "labor": 100,
+      "total": 1500
+    }
+  },
+  "validation": {
+    "cases": [],
+    "schools": [
+      "实验中学"
+    ],
+    "dates": [
+      "2025-10-10"
+    ],
+    "report": "实验效果稳定",
+    "feedback": {
+      "student": "颜色变化很神奇",
+      "teacher": "概念理解明显提升",
+      "effect": [],
+      "engagement": 4,
+      "satisfaction": 4
+    },
+    "improvement": {
+      "history": [],
+      "todos": [
+        "增加定量滴定"
+      ],
+      "suggestions": "增加电子PH计"
+    },
+    "status": {
+      "level": "已验证",
+      "agency": "教研组",
+      "date": "2025-10-25",
+      "report": "通过验收"
+    }
+  },
+  "id": "e9745739-f8c2-484a-839f-627e828983f5",
+  "updatedAt": "2026-01-07T07:59:18.205Z"
+}

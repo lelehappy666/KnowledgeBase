@@ -1,0 +1,358 @@
+{
+  "name": "人类感官的秘密",
+  "basic": {
+    "id": "THEME_SENSE_001",
+    "aliases": [
+      "感官世界",
+      "感知科学"
+    ],
+    "icon": "sense-icon.png",
+    "color": "#FF9800",
+    "slogan": "你看到的，未必是真实的",
+    "abstract": "探索人类视觉、听觉、触觉等感官的工作机制与局限，理解大脑如何建构我们所感知的世界。",
+    "attributes": {
+      "type": "生命科学主题",
+      "scale": "中大型主题",
+      "timeliness": "长期主题",
+      "importance": "重点主题",
+      "urgency": "中"
+    },
+    "relations": {
+      "subjects": [
+        "生物",
+        "物理",
+        "心理"
+      ],
+      "domains": [
+        "神经科学",
+        "认知科学"
+      ],
+      "sdgs": [
+        "目标3:健康与福祉"
+      ],
+      "keywords": [
+        "感官",
+        "错觉",
+        "大脑"
+      ]
+    }
+  },
+  "structure": {
+    "framework": {
+      "type": "体验式叙事",
+      "perspective": "第一人称视角",
+      "rhythm": "快慢交替",
+      "emotionCurve": "好奇→惊讶→怀疑→理解",
+      "goal": "打破对感官绝对可信的认知"
+    },
+    "stages": [
+      {
+        "name": "感官输入",
+        "desc": "信号的产生",
+        "duration": 6
+      },
+      {
+        "name": "大脑加工",
+        "desc": "信息的解释",
+        "duration": 8
+      },
+      {
+        "name": "感知偏差",
+        "desc": "错觉与误判",
+        "duration": 8
+      }
+    ],
+    "points": {
+      "turning": [
+        "视觉错觉",
+        "听觉幻觉"
+      ],
+      "climax": "多重感官冲突体验",
+      "ending": "重新审视‘真实’"
+    },
+    "elements": {
+      "protagonist": "人类大脑",
+      "conflict": "感知与真实的差异",
+      "suspense": [
+        "我们看到的一定是真的吗?"
+      ],
+      "metaphor": [
+        "大脑是导演"
+      ],
+      "quotes": [
+        "大脑在欺骗你"
+      ]
+    },
+    "cognition": {
+      "start": "眼见为实",
+      "goal": "理解感官的局限",
+      "ladder": [
+        {
+          "level": 1,
+          "cognition": "识别五感",
+          "activity": "感官测试"
+        },
+        {
+          "level": 2,
+          "cognition": "理解错觉",
+          "activity": "错觉实验"
+        }
+      ],
+      "obstacles": [
+        "经验固化"
+      ],
+      "breakthroughs": [
+        "反直觉体验"
+      ]
+    }
+  },
+  "configuration": {
+    "exhibits": {
+      "suitableTypes": [],
+      "functionTable": [
+        {
+          "type": "互动体验",
+          "func": "感官测试"
+        }
+      ],
+      "combinations": [
+        {
+          "name": "感官实验室",
+          "exhibits": []
+        }
+      ],
+      "core": [],
+      "auxiliary": []
+    },
+    "layout": {
+      "space": "中型展区",
+      "area": 300,
+      "type": "体验节点式",
+      "flowChart": "",
+      "zones": [
+        {
+          "name": "错觉区",
+          "func": "体验冲突"
+        }
+      ],
+      "focus": [
+        "镜像空间",
+        "声音迷宫"
+      ],
+      "transition": "灯光与声音变化",
+      "restPoints": [
+        {
+          "location": "错觉区后",
+          "func": "讨论区"
+        }
+      ]
+    },
+    "examples": {
+      "visual": [],
+      "mechanical": [],
+      "data": [],
+      "immersive": [],
+      "interactive": [],
+      "art": []
+    }
+  },
+  "content": {
+    "framework": {
+      "core": [
+        "感知是建构的"
+      ],
+      "data": [
+        {
+          "label": "视觉信息占比",
+          "value": "80%"
+        }
+      ],
+      "concepts": [
+        {
+          "name": "感知错觉",
+          "desc": "大脑的误判"
+        }
+      ],
+      "stories": [
+        {
+          "person": "神经科学家",
+          "story": "错觉研究"
+        }
+      ],
+      "timeline": [
+        {
+          "time": "19世纪",
+          "event": "心理物理学诞生"
+        }
+      ],
+      "geography": [
+        {
+          "region": "大脑",
+          "feature": "感知中枢"
+        }
+      ]
+    },
+    "levels": {
+      "l1": [
+        "五感"
+      ],
+      "l2": [
+        "感知加工"
+      ],
+      "l3": [
+        "神经机制"
+      ],
+      "l4": [
+        "意识问题"
+      ]
+    },
+    "carriers": {
+      "boards": "15-20块",
+      "videos": [
+        {
+          "type": "感官动画",
+          "duration": 3
+        }
+      ],
+      "interactive": [
+        {
+          "func": "错觉体验",
+          "interface": "体感+音频"
+        }
+      ],
+      "objects": [
+        {
+          "name": "错觉装置",
+          "type": "装置"
+        }
+      ],
+      "visualization": [
+        {
+          "data": "感知路径",
+          "form": "动态示意"
+        }
+      ]
+    },
+    "tactics": {
+      "suspense": [
+        "你能相信你的眼睛吗?"
+      ],
+      "contrast": [
+        "感觉vs事实"
+      ],
+      "analogy": [
+        "大脑像滤镜"
+      ],
+      "plot": "被大脑欺骗的一天",
+      "resonance": [
+        "日常体验共鸣"
+      ]
+    }
+  },
+  "experience": {
+    "goals": {
+      "cognitive": "理解感官机制",
+      "emotional": "惊讶与反思",
+      "behavioral": "更理性判断",
+      "social": "交流体验差异"
+    },
+    "design": {
+      "senses": [
+        {
+          "sense": "多感官",
+          "experience": "冲突体验"
+        }
+      ],
+      "rhythm": "快慢交替",
+      "surprise": [
+        "感官失真瞬间"
+      ],
+      "memory": [
+        "错觉体验"
+      ],
+      "photo": [
+        "镜像空间"
+      ]
+    },
+    "interaction": {
+      "observation": [],
+      "operation": [],
+      "inquiry": [],
+      "creation": [],
+      "share": []
+    },
+    "participation": {
+      "individual": 4,
+      "group": 4,
+      "family": 4,
+      "community": 2,
+      "continuous": "线上错觉挑战"
+    },
+    "emotion": {
+      "start": "好奇",
+      "path": "好奇→惊讶→怀疑→理解",
+      "climax": "感官冲突",
+      "end": "理性",
+      "memory": "我不能完全相信感官"
+    }
+  },
+  "evaluation": {
+    "indicators": {
+      "understanding": 0.9,
+      "satisfaction": 0.92,
+      "duration": 30,
+      "depth": "3.7/5",
+      "behaviorChange": 0.35,
+      "socialShare": 0.75
+    },
+    "methods": {
+      "observation": "体验反应",
+      "interview": "",
+      "questionnaire": "",
+      "tracking": [
+        "互动次数"
+      ],
+      "focusGroup": ""
+    },
+    "iteration": {
+      "versions": [
+        {
+          "version": "1.1",
+          "change": "增强互动"
+        }
+      ],
+      "success": [
+        "参与度高"
+      ],
+      "failure": [
+        "科学解释偏少"
+      ],
+      "suggestions": "加强原理说明",
+      "todos": [
+        "增加深度层"
+      ]
+    },
+    "references": {
+      "similar": [],
+      "global": [
+        {
+          "country": "英国",
+          "case": "感知科学展"
+        }
+      ],
+      "awards": [],
+      "academic": []
+    },
+    "status": {
+      "maturity": "应用阶段",
+      "count": 5,
+      "agencies": [
+        "科技馆"
+      ],
+      "date": "2025-07-01",
+      "report": ""
+    }
+  },
+  "id": "d45f6c73-6895-4a87-b536-6d80357b1478",
+  "updatedAt": "2026-01-07T08:23:22.530Z"
+}

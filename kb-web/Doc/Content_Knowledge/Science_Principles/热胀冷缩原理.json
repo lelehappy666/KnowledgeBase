@@ -1,0 +1,191 @@
+{
+  "name": "热胀冷缩原理",
+  "basic": {
+    "aliases": [
+      "热膨胀现象"
+    ],
+    "enName": "Thermal Expansion",
+    "abstract": "物体受热体积增大、遇冷体积减小的普遍现象",
+    "history": "17世纪随温度计发展逐步被认识"
+  },
+  "classification": {
+    "category": "物理",
+    "subCategory": "热学",
+    "crossDiscipline": [
+      "材料科学",
+      "工程结构"
+    ],
+    "knowledgeSystem": "经典物理",
+    "difficultyLevel": "入门级"
+  },
+  "education": {
+    "gradeLevel": [
+      "小学",
+      "初中"
+    ],
+    "gradeSpecific": [
+      "六年级",
+      "七年级"
+    ],
+    "curriculum": {
+      "standard": [
+        {
+          "version": "人教版",
+          "grade": "6",
+          "chapter": "热现象"
+        }
+      ],
+      "requirements": "理解温度变化对物体的影响",
+      "knowledgePointId": "PHY-06-02-01",
+      "coreLiteracy": [
+        "科学观察"
+      ],
+      "abilityGoals": [
+        "解释生活中的热胀冷缩现象"
+      ],
+      "cognitiveLevel": "理解"
+    },
+    "teaching": {
+      "misconceptions": [
+        "只有金属才会热胀冷缩"
+      ],
+      "difficulties": "微小变化不易观察",
+      "suggestions": "使用明显对比实验",
+      "safety": "防止烫伤"
+    }
+  },
+  "exhibitRelation": {
+    "exhibitability": "非常适合展示",
+    "suitableTypes": [],
+    "existingCases": [],
+    "creativeIdeas": [
+      {
+        "name": "热胀冷缩桥",
+        "desc": "模拟桥梁伸缩缝"
+      }
+    ],
+    "design": {
+      "visualStrategy": "位移放大显示",
+      "interactionPoints": [
+        "加热与冷却操作"
+      ],
+      "experiencePoints": [
+        "直观变化感"
+      ],
+      "techPath": [
+        "温控系统",
+        "位移传感器"
+      ]
+    },
+    "difficulty": {
+      "understanding": 2,
+      "operation": 2,
+      "immersion": 3,
+      "memory": 4
+    }
+  },
+  "activity": {
+    "curriculum": {
+      "theme": "温度的力量",
+      "type": [
+        "实验课"
+      ],
+      "duration": "40分钟",
+      "location": [
+        "教室",
+        "展厅"
+      ],
+      "audienceSize": "10-30人"
+    },
+    "project": {
+      "theme": "设计伸缩结构",
+      "cycle": "1周",
+      "drivingQuestion": "为什么桥梁要留缝？",
+      "outcome": [
+        "结构模型"
+      ],
+      "evaluationRubric": ""
+    },
+    "resources": {
+      "ppt": "",
+      "guide": "",
+      "manual": "",
+      "video": "",
+      "materials": "",
+      "equipment": [
+        {
+          "name": "热胀冷缩实验器",
+          "count": 2
+        }
+      ],
+      "cost": 300
+    }
+  },
+  "crossDisciplinary": {
+    "steam": {
+      "s": [
+        "分子运动"
+      ],
+      "t": [
+        "温控技术"
+      ],
+      "e": [
+        "结构工程"
+      ],
+      "a": [
+        "装置设计"
+      ],
+      "m": [
+        "比例变化"
+      ]
+    },
+    "application": {
+      "daily": [
+        "瓶盖加热"
+      ],
+      "industrial": [
+        "管道设计"
+      ],
+      "research": [
+        "新材料测试"
+      ],
+      "medical": [
+        "热成像"
+      ],
+      "military": [
+        "环境适应装备"
+      ]
+    },
+    "frontier": {
+      "research": "低膨胀材料",
+      "unsolved": [],
+      "trends": "智能温控结构"
+    }
+  },
+  "evaluation": {
+    "teaching": {
+      "indicators": [
+        "能解释现象"
+      ],
+      "methods": [
+        "实验观察"
+      ],
+      "tools": "",
+      "data": []
+    },
+    "exhibit": {
+      "effect": 4,
+      "feedback": "非常直观",
+      "suggestions": "增加数字化显示"
+    },
+    "content": {
+      "accuracy": "已验证",
+      "timeliness": "长期有效",
+      "completeness": 5,
+      "utility": 5,
+      "popularity": 4
+    }
+  },
+  "id": "16b95a6b-9231-4cc2-ab41-539dbbd47957",
+  "updatedAt": "2026-01-07T07:44:29.971Z"
+}

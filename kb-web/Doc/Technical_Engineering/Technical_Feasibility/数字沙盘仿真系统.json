@@ -1,0 +1,95 @@
+{
+  "name": "数字沙盘仿真系统",
+  "basic": {
+    "id": "TECH-DIG-006",
+    "category": "数字仿真技术",
+    "description": "融合物理沙盘与数字投影的动态仿真展示系统",
+    "keywords": [
+      "数字沙盘",
+      "仿真",
+      "投影融合"
+    ],
+    "source": "采购"
+  },
+  "specs": {
+    "dimensions": "3m x 2m x 1.2m",
+    "weight": "350kg",
+    "power": "1200W",
+    "materials": [
+      "实体沙盘",
+      "投影幕"
+    ],
+    "network": "千兆以太网",
+    "software": "Unity3D"
+  },
+  "analysis": {
+    "maturity": {
+      "trl": 9,
+      "status": "成熟稳定",
+      "cases": 80
+    },
+    "stability": {
+      "mtbf": "6000小时",
+      "durability": "高",
+      "maintenanceCycle": "4个月"
+    },
+    "safety": {
+      "risks": [
+        "投影遮挡"
+      ],
+      "measures": [
+        "固定观赏区域"
+      ],
+      "certifications": [
+        "CE"
+      ]
+    },
+    "riskLevel": "Low"
+  },
+  "requirements": {
+    "environment": {
+      "temperature": "10-30℃",
+      "humidity": "30-70%",
+      "lighting": "半暗环境",
+      "noise": "<45dB"
+    },
+    "installation": {
+      "space": "4m x 3m",
+      "loadBearing": ">300kg/m2",
+      "difficulty": 3,
+      "time": "3天"
+    },
+    "skill": {
+      "development": [
+        "数据可视化",
+        "仿真逻辑"
+      ],
+      "operation": [
+        "模式切换",
+        "设备维护"
+      ]
+    }
+  },
+  "cost": {
+    "development": 90000,
+    "hardware": 150000,
+    "software": 30000,
+    "deployment": 20000,
+    "maintenance": 12000,
+    "total": 302000
+  },
+  "interaction": {
+    "input": [
+      "按钮控制",
+      "触控屏"
+    ],
+    "output": [
+      "投影影像",
+      "解说音频"
+    ],
+    "latency": "<70ms",
+    "throughput": "10-15人"
+  },
+  "id": "f326463d-2574-497a-b658-bd4e8509919e",
+  "updatedAt": "2026-01-07T08:42:09.615Z"
+}

@@ -1,0 +1,189 @@
+{
+  "name": "板块运动与地震",
+  "basic": {
+    "code": "SM-GEO-001",
+    "purpose": "理解地震产生的地质原因"
+  },
+  "dimensions": {
+    "exhibit": {
+      "typeId": "earth-science",
+      "subTypes": [
+        "板块模型",
+        "地震模拟"
+      ],
+      "interaction": [
+        "推动板块",
+        "观察震动"
+      ],
+      "experience": [
+        "对比体验",
+        "因果理解"
+      ]
+    },
+    "subject": {
+      "category": "地理",
+      "branch": "自然地理",
+      "topic": "地壳运动",
+      "standard": "义务教育地理课程标准(2022年版)"
+    },
+    "grade": {
+      "level": "初中",
+      "specific": [
+        "七年级"
+      ],
+      "ageRange": "12-13岁",
+      "cognitiveLevel": "具体运算阶段"
+    }
+  },
+  "knowledge": {
+    "principleId": "",
+    "name": "板块构造学说",
+    "code": "GEO-NAT-02",
+    "depth": "理解",
+    "type": "概念性",
+    "match": {
+      "score": 5,
+      "reason": "模型直接展示板块相互作用。",
+      "pros": [
+        "直观易懂"
+      ],
+      "cons": [
+        "比例简化"
+      ],
+      "complementary": [
+        "动画演示"
+      ]
+    }
+  },
+  "teaching": {
+    "timing": "新课讲解",
+    "method": [
+      "模型演示"
+    ],
+    "duration": "15分钟",
+    "connection": "帮助理解地震成因",
+    "difficulty": {
+      "cognitive": 2,
+      "operation": 1,
+      "threshold": "基本地理概念",
+      "skills": [
+        "观察分析"
+      ]
+    },
+    "adaptability": {
+      "gender": "无差异",
+      "culture": "普适",
+      "specialNeeds": [],
+      "learningStyle": [
+        "视觉型"
+      ],
+      "personality": [
+        "所有"
+      ]
+    },
+    "groupFit": {
+      "individual": 3,
+      "group": 4,
+      "class": 5,
+      "family": 4
+    }
+  },
+  "goals": {
+    "knowledge": [
+      "认识板块运动"
+    ],
+    "ability": [
+      "解释地震原因"
+    ],
+    "literacy": [
+      "地理观念"
+    ],
+    "emotion": [
+      "增强防灾意识"
+    ]
+  },
+  "assessment": {
+    "dimensions": [
+      "因果理解"
+    ],
+    "methods": [
+      "提问"
+    ],
+    "tools": "任务卡",
+    "standards": [],
+    "performance": "能正确解释地震成因"
+  },
+  "outcome": {
+    "works": [
+      "板块示意图"
+    ],
+    "example": "分析地震多发区原因",
+    "display": [
+      "展板展示"
+    ]
+  },
+  "implementation": {
+    "conditions": {
+      "space": "2平米",
+      "equipment": [
+        "板块模型"
+      ],
+      "personnel": "1名讲解员",
+      "safety": "防止夹手",
+      "maintenance": "检查滑轨"
+    },
+    "resources": {
+      "guide": "地震成因学习单.pdf",
+      "manual": "设备维护说明.pdf",
+      "background": "地质学基础",
+      "extended": [],
+      "qa": "为什么地震多发生在板块交界处？"
+    },
+    "schedule": {
+      "prep": 5,
+      "activity": 15,
+      "cleanup": 5,
+      "bestTime": [
+        "全天"
+      ]
+    },
+    "cost": {
+      "equipment": 2800,
+      "material": 100,
+      "labor": 100,
+      "total": 3000
+    }
+  },
+  "validation": {
+    "cases": [],
+    "schools": [
+      "实验中学"
+    ],
+    "dates": [
+      "2025-10-05"
+    ],
+    "report": "学生理解明显提升",
+    "feedback": {
+      "student": "地震原来是这样产生的",
+      "teacher": "概念讲得很清楚",
+      "effect": [],
+      "engagement": 4,
+      "satisfaction": 4
+    },
+    "improvement": {
+      "history": [],
+      "todos": [
+        "增加真实案例"
+      ],
+      "suggestions": "结合防震演练"
+    },
+    "status": {
+      "level": "已验证",
+      "agency": "教研组",
+      "date": "2025-10-20",
+      "report": "通过验收"
+    }
+  },
+  "id": "bc617c93-bb63-40e7-a003-636f7a1e9a59",
+  "updatedAt": "2026-01-07T07:59:54.425Z"
+}

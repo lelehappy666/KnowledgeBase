@@ -1,0 +1,365 @@
+{
+  "name": "时间的尺度：从宇宙到生命",
+  "basic": {
+    "id": "THEME_TIME_001",
+    "aliases": [
+      "时间维度",
+      "宇宙时间"
+    ],
+    "icon": "time-icon.png",
+    "color": "#3F51B5",
+    "slogan": "时间，塑造了一切",
+    "abstract": "通过多重时间尺度的对比，理解宇宙、地球与生命演化的宏大进程。",
+    "attributes": {
+      "type": "科学主题",
+      "scale": "大型主题",
+      "timeliness": "长期主题",
+      "importance": "重点主题",
+      "urgency": "中"
+    },
+    "relations": {
+      "subjects": [
+        "物理",
+        "生物",
+        "地理",
+        "天文"
+      ],
+      "domains": [
+        "宇宙科学",
+        "生命科学"
+      ],
+      "sdgs": [
+        "目标4:优质教育"
+      ],
+      "keywords": [
+        "时间尺度",
+        "演化",
+        "宇宙史"
+      ]
+    }
+  },
+  "structure": {
+    "framework": {
+      "type": "尺度递进叙事",
+      "perspective": "观察者视角",
+      "rhythm": "由慢到快",
+      "emotionCurve": "敬畏→迷茫→理解→震撼",
+      "goal": "建立宏观与微观时间概念"
+    },
+    "stages": [
+      {
+        "name": "宇宙时间",
+        "desc": "138亿年的演化",
+        "duration": 10
+      },
+      {
+        "name": "地球时间",
+        "desc": "46亿年的变化",
+        "duration": 10
+      },
+      {
+        "name": "生命时间",
+        "desc": "数百万年的进化",
+        "duration": 10
+      }
+    ],
+    "points": {
+      "turning": [
+        "大爆炸",
+        "生命起源",
+        "人类出现"
+      ],
+      "climax": "一分钟体验138亿年",
+      "ending": "重新理解当下的意义"
+    },
+    "elements": {
+      "protagonist": "时间",
+      "conflict": "人类感知与真实时间的差距",
+      "suspense": [
+        "时间是否有起点?",
+        "时间能否倒流?"
+      ],
+      "metaphor": [
+        "时间是河流",
+        "人类是浪花"
+      ],
+      "quotes": [
+        "时间创造万物",
+        "我们只是时间的过客"
+      ]
+    },
+    "cognition": {
+      "start": "时间只是钟表",
+      "goal": "理解多尺度时间",
+      "ladder": [
+        {
+          "level": 1,
+          "cognition": "认识时间单位",
+          "activity": "时间轴拖拽"
+        },
+        {
+          "level": 2,
+          "cognition": "理解演化跨度",
+          "activity": "时间压缩体验"
+        }
+      ],
+      "obstacles": [
+        "尺度过大",
+        "缺乏直观感"
+      ],
+      "breakthroughs": [
+        "比例缩放",
+        "沉浸式对比"
+      ]
+    }
+  },
+  "configuration": {
+    "exhibits": {
+      "suitableTypes": [],
+      "functionTable": [
+        {
+          "type": "沉浸式展项",
+          "func": "时间感知"
+        }
+      ],
+      "combinations": [
+        {
+          "name": "时间隧道",
+          "exhibits": []
+        }
+      ],
+      "core": [],
+      "auxiliary": []
+    },
+    "layout": {
+      "space": "大型展区",
+      "area": 400,
+      "type": "隧道式流线",
+      "flowChart": "",
+      "zones": [
+        {
+          "name": "宇宙区",
+          "func": "宏观时间"
+        }
+      ],
+      "focus": [
+        "时间隧道入口",
+        "生命节点墙"
+      ],
+      "transition": "尺度渐变灯光",
+      "restPoints": [
+        {
+          "location": "生命区后",
+          "func": "思考区"
+        }
+      ]
+    },
+    "examples": {
+      "visual": [],
+      "mechanical": [],
+      "data": [],
+      "immersive": [],
+      "interactive": [],
+      "art": []
+    }
+  },
+  "content": {
+    "framework": {
+      "core": [
+        "时间是理解世界的钥匙"
+      ],
+      "data": [
+        {
+          "label": "宇宙年龄",
+          "value": "138亿年"
+        }
+      ],
+      "concepts": [
+        {
+          "name": "时间尺度",
+          "desc": "不同层级的时间跨度"
+        }
+      ],
+      "stories": [
+        {
+          "person": "哈勃",
+          "story": "宇宙膨胀的发现"
+        }
+      ],
+      "timeline": [
+        {
+          "time": "138亿年前",
+          "event": "宇宙诞生"
+        }
+      ],
+      "geography": [
+        {
+          "region": "地球",
+          "feature": "时间记录者"
+        }
+      ]
+    },
+    "levels": {
+      "l1": [
+        "时间概念"
+      ],
+      "l2": [
+        "时间尺度对比"
+      ],
+      "l3": [
+        "演化机制"
+      ],
+      "l4": [
+        "宇宙学模型"
+      ]
+    },
+    "carriers": {
+      "boards": "15-20块",
+      "videos": [
+        {
+          "type": "时间压缩动画",
+          "duration": 4
+        }
+      ],
+      "interactive": [
+        {
+          "func": "时间缩放",
+          "interface": "体感"
+        }
+      ],
+      "objects": [
+        {
+          "name": "化石",
+          "type": "实物"
+        }
+      ],
+      "visualization": [
+        {
+          "data": "演化时间线",
+          "form": "动态轴线"
+        }
+      ]
+    },
+    "tactics": {
+      "suspense": [
+        "人类在时间中有多短暂?"
+      ],
+      "contrast": [
+        "宇宙vs人类"
+      ],
+      "analogy": [
+        "一年=宇宙史"
+      ],
+      "plot": "从宇宙到一秒钟",
+      "resonance": [
+        "个人时间反思"
+      ]
+    }
+  },
+  "experience": {
+    "goals": {
+      "cognitive": "理解时间尺度",
+      "emotional": "敬畏时间",
+      "behavioral": "珍惜时间",
+      "social": "讨论人类位置"
+    },
+    "design": {
+      "senses": [
+        {
+          "sense": "视觉",
+          "experience": "时间流动光效"
+        }
+      ],
+      "rhythm": "慢→快",
+      "surprise": [
+        "时间骤然加速"
+      ],
+      "memory": [
+        "时间隧道"
+      ],
+      "photo": [
+        "宇宙时间墙"
+      ]
+    },
+    "interaction": {
+      "observation": [],
+      "operation": [],
+      "inquiry": [],
+      "creation": [],
+      "share": []
+    },
+    "participation": {
+      "individual": 4,
+      "group": 3,
+      "family": 3,
+      "community": 2,
+      "continuous": "线上时间记录"
+    },
+    "emotion": {
+      "start": "平静",
+      "path": "平静→震撼→思考",
+      "climax": "时间压缩体验",
+      "end": "敬畏",
+      "memory": "我在时间中的位置"
+    }
+  },
+  "evaluation": {
+    "indicators": {
+      "understanding": 0.88,
+      "satisfaction": 0.9,
+      "duration": 35,
+      "depth": "4.0/5",
+      "behaviorChange": 0.3,
+      "socialShare": 0.6
+    },
+    "methods": {
+      "observation": "停留时间",
+      "interview": "",
+      "questionnaire": "",
+      "tracking": [
+        "行为路径"
+      ],
+      "focusGroup": ""
+    },
+    "iteration": {
+      "versions": [
+        {
+          "version": "1.1",
+          "change": "增加沉浸段落"
+        }
+      ],
+      "success": [
+        "沉浸感强"
+      ],
+      "failure": [
+        "概念偏抽象"
+      ],
+      "suggestions": "增加生活对比",
+      "todos": [
+        "儿童友好化"
+      ]
+    },
+    "references": {
+      "similar": [],
+      "global": [
+        {
+          "country": "美国",
+          "case": "宇宙时间展"
+        }
+      ],
+      "awards": [],
+      "academic": []
+    },
+    "status": {
+      "maturity": "应用阶段",
+      "count": 3,
+      "agencies": [
+        "自然博物馆"
+      ],
+      "date": "2025-10-01",
+      "report": ""
+    }
+  },
+  "id": "f3406392-8b37-46b0-85d8-3b254781ba6a",
+  "updatedAt": "2026-01-07T08:18:14.891Z"
+}

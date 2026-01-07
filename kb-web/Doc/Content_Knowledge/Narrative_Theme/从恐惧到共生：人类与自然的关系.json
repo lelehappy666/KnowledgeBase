@@ -1,0 +1,360 @@
+{
+  "name": "从恐惧到共生：人类与自然的关系",
+  "basic": {
+    "id": "THEME_NATURE_001",
+    "aliases": [
+      "人与自然",
+      "生态共生"
+    ],
+    "icon": "nature-icon.png",
+    "color": "#2E7D32",
+    "slogan": "我们不是自然的主人",
+    "abstract": "回顾人类从畏惧自然、征服自然到寻求共生的历史转变，反思未来生态之路。",
+    "attributes": {
+      "type": "综合科学主题",
+      "scale": "大型主题",
+      "timeliness": "现实主题",
+      "importance": "重点主题",
+      "urgency": "高"
+    },
+    "relations": {
+      "subjects": [
+        "生物",
+        "地理",
+        "社会"
+      ],
+      "domains": [
+        "生态学",
+        "环境科学"
+      ],
+      "sdgs": [
+        "目标13:气候行动",
+        "目标15:陆地生态"
+      ],
+      "keywords": [
+        "生态",
+        "共生",
+        "可持续"
+      ]
+    }
+  },
+  "structure": {
+    "framework": {
+      "type": "价值反思叙事",
+      "perspective": "人类文明视角",
+      "rhythm": "由冲突到缓和",
+      "emotionCurve": "恐惧→征服→反思→希望",
+      "goal": "建立共生意识"
+    },
+    "stages": [
+      {
+        "name": "敬畏自然",
+        "desc": "原始阶段",
+        "duration": 6
+      },
+      {
+        "name": "征服自然",
+        "desc": "工业阶段",
+        "duration": 8
+      },
+      {
+        "name": "走向共生",
+        "desc": "未来愿景",
+        "duration": 10
+      }
+    ],
+    "points": {
+      "turning": [
+        "农业革命",
+        "工业革命",
+        "生态危机"
+      ],
+      "climax": "生态崩溃沉浸体验",
+      "ending": "选择未来路径"
+    },
+    "elements": {
+      "protagonist": "人类文明",
+      "conflict": "发展与生态",
+      "suspense": [
+        "自然会反击吗?"
+      ],
+      "metaphor": [
+        "人类是生态一环"
+      ],
+      "quotes": [
+        "自然从不报复，只是回应"
+      ]
+    },
+    "cognition": {
+      "start": "自然是资源",
+      "goal": "理解共生关系",
+      "ladder": [
+        {
+          "level": 1,
+          "cognition": "认识生态",
+          "activity": "生态链互动"
+        },
+        {
+          "level": 2,
+          "cognition": "理解影响",
+          "activity": "行为模拟"
+        }
+      ],
+      "obstacles": [
+        "距离感"
+      ],
+      "breakthroughs": [
+        "情境沉浸"
+      ]
+    }
+  },
+  "configuration": {
+    "exhibits": {
+      "suitableTypes": [],
+      "functionTable": [
+        {
+          "type": "沉浸式展项",
+          "func": "情感冲击"
+        }
+      ],
+      "combinations": [
+        {
+          "name": "生态抉择",
+          "exhibits": []
+        }
+      ],
+      "core": [],
+      "auxiliary": []
+    },
+    "layout": {
+      "space": "大型展区",
+      "area": 480,
+      "type": "叙事流线",
+      "flowChart": "",
+      "zones": [
+        {
+          "name": "未来生态区",
+          "func": "愿景展示"
+        }
+      ],
+      "focus": [
+        "生态沉浸剧场"
+      ],
+      "transition": "环境音变化",
+      "restPoints": [
+        {
+          "location": "未来区",
+          "func": "承诺区"
+        }
+      ]
+    },
+    "examples": {
+      "visual": [],
+      "mechanical": [],
+      "data": [],
+      "immersive": [],
+      "interactive": [],
+      "art": []
+    }
+  },
+  "content": {
+    "framework": {
+      "core": [
+        "共生是唯一出路"
+      ],
+      "data": [
+        {
+          "label": "生物多样性下降",
+          "value": "68%"
+        }
+      ],
+      "concepts": [
+        {
+          "name": "生态系统",
+          "desc": "相互依存网络"
+        }
+      ],
+      "stories": [
+        {
+          "person": "环保行动者",
+          "story": "守护自然"
+        }
+      ],
+      "timeline": [
+        {
+          "time": "20世纪",
+          "event": "环境运动"
+        }
+      ],
+      "geography": [
+        {
+          "region": "全球",
+          "feature": "生态系统"
+        }
+      ]
+    },
+    "levels": {
+      "l1": [
+        "自然与人类"
+      ],
+      "l2": [
+        "生态破坏"
+      ],
+      "l3": [
+        "系统影响"
+      ],
+      "l4": [
+        "伦理讨论"
+      ]
+    },
+    "carriers": {
+      "boards": "20-25块",
+      "videos": [
+        {
+          "type": "生态纪录片",
+          "duration": 5
+        }
+      ],
+      "interactive": [
+        {
+          "func": "生态选择",
+          "interface": "触控"
+        }
+      ],
+      "objects": [
+        {
+          "name": "生态模型",
+          "type": "模型"
+        }
+      ],
+      "visualization": [
+        {
+          "data": "生态变化",
+          "form": "动态图"
+        }
+      ]
+    },
+    "tactics": {
+      "suspense": [
+        "如果继续这样?"
+      ],
+      "contrast": [
+        "破坏vs修复"
+      ],
+      "analogy": [
+        "生态像网络"
+      ],
+      "plot": "人类与自然的关系史",
+      "resonance": [
+        "家园意识"
+      ]
+    }
+  },
+  "experience": {
+    "goals": {
+      "cognitive": "理解生态关系",
+      "emotional": "责任与希望",
+      "behavioral": "环保行动",
+      "social": "价值共识"
+    },
+    "design": {
+      "senses": [
+        {
+          "sense": "听觉",
+          "experience": "自然与噪声对比"
+        }
+      ],
+      "rhythm": "沉重→舒缓",
+      "surprise": [
+        "生态崩溃体验"
+      ],
+      "memory": [
+        "未来承诺"
+      ],
+      "photo": [
+        "共生愿景墙"
+      ]
+    },
+    "interaction": {
+      "observation": [],
+      "operation": [],
+      "inquiry": [],
+      "creation": [],
+      "share": []
+    },
+    "participation": {
+      "individual": 3,
+      "group": 4,
+      "family": 4,
+      "community": 4,
+      "continuous": "生态行动平台"
+    },
+    "emotion": {
+      "start": "担忧",
+      "path": "担忧→震撼→反思→希望",
+      "climax": "生态危机场景",
+      "end": "行动",
+      "memory": "我必须做出选择"
+    }
+  },
+  "evaluation": {
+    "indicators": {
+      "understanding": 0.9,
+      "satisfaction": 0.93,
+      "duration": 50,
+      "depth": "4.1/5",
+      "behaviorChange": 0.55,
+      "socialShare": 0.8
+    },
+    "methods": {
+      "observation": "情绪反应",
+      "interview": "",
+      "questionnaire": "",
+      "tracking": [
+        "承诺数量"
+      ],
+      "focusGroup": ""
+    },
+    "iteration": {
+      "versions": [
+        {
+          "version": "2.0",
+          "change": "强化行动环节"
+        }
+      ],
+      "success": [
+        "情感冲击强"
+      ],
+      "failure": [
+        "情绪较重"
+      ],
+      "suggestions": "平衡希望",
+      "todos": [
+        "儿童友好方案"
+      ]
+    },
+    "references": {
+      "similar": [],
+      "global": [
+        {
+          "country": "荷兰",
+          "case": "生态共生展"
+        }
+      ],
+      "awards": [],
+      "academic": []
+    },
+    "status": {
+      "maturity": "应用阶段",
+      "count": 7,
+      "agencies": [
+        "自然博物馆",
+        "科技馆"
+      ],
+      "date": "2025-05-01",
+      "report": ""
+    }
+  },
+  "id": "a5340594-8b9c-40d2-ac0e-186dcc63a8c9",
+  "updatedAt": "2026-01-07T08:24:46.927Z"
+}

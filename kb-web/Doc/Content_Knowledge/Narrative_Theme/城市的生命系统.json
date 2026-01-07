@@ -1,0 +1,357 @@
+{
+  "name": "城市的生命系统",
+  "basic": {
+    "id": "THEME_CITY_001",
+    "aliases": [
+      "城市运转",
+      "城市之躯"
+    ],
+    "icon": "city-icon.png",
+    "color": "#607D8B",
+    "slogan": "城市，也是一种生命",
+    "abstract": "将城市视作一个有机生命体，理解其能源、交通、水与信息系统的协同运作。",
+    "attributes": {
+      "type": "综合科学主题",
+      "scale": "大型主题",
+      "timeliness": "现实主题",
+      "importance": "重点主题",
+      "urgency": "高"
+    },
+    "relations": {
+      "subjects": [
+        "工程",
+        "地理",
+        "社会"
+      ],
+      "domains": [
+        "城市科学",
+        "系统工程"
+      ],
+      "sdgs": [
+        "目标11:可持续城市"
+      ],
+      "keywords": [
+        "智慧城市",
+        "基础设施"
+      ]
+    }
+  },
+  "structure": {
+    "framework": {
+      "type": "系统叙事",
+      "perspective": "城市内部视角",
+      "rhythm": "稳定推进",
+      "emotionCurve": "熟悉→惊讶→理解→责任",
+      "goal": "理解城市背后的系统复杂性"
+    },
+    "stages": [
+      {
+        "name": "城市骨骼",
+        "desc": "建筑与结构",
+        "duration": 6
+      },
+      {
+        "name": "城市血管",
+        "desc": "交通与能源",
+        "duration": 8
+      },
+      {
+        "name": "城市神经",
+        "desc": "信息系统",
+        "duration": 8
+      }
+    ],
+    "points": {
+      "turning": [
+        "工业城市",
+        "现代城市",
+        "智慧城市"
+      ],
+      "climax": "城市系统联动沙盘",
+      "ending": "每个人都是系统一部分"
+    },
+    "elements": {
+      "protagonist": "城市系统",
+      "conflict": "效率与可持续",
+      "suspense": [
+        "城市会生病吗?"
+      ],
+      "metaphor": [
+        "城市是生命体"
+      ],
+      "quotes": [
+        "城市从不睡觉"
+      ]
+    },
+    "cognition": {
+      "start": "城市只是建筑",
+      "goal": "理解系统协同",
+      "ladder": [
+        {
+          "level": 1,
+          "cognition": "识别系统",
+          "activity": "系统点选"
+        },
+        {
+          "level": 2,
+          "cognition": "理解联动",
+          "activity": "故障模拟"
+        }
+      ],
+      "obstacles": [
+        "系统抽象"
+      ],
+      "breakthroughs": [
+        "生命类比"
+      ]
+    }
+  },
+  "configuration": {
+    "exhibits": {
+      "suitableTypes": [],
+      "functionTable": [
+        {
+          "type": "沙盘展项",
+          "func": "系统联动"
+        }
+      ],
+      "combinations": [
+        {
+          "name": "城市中枢",
+          "exhibits": []
+        }
+      ],
+      "core": [],
+      "auxiliary": []
+    },
+    "layout": {
+      "space": "大型展区",
+      "area": 450,
+      "type": "环形流线",
+      "flowChart": "",
+      "zones": [
+        {
+          "name": "中控区",
+          "func": "系统展示"
+        }
+      ],
+      "focus": [
+        "城市沙盘"
+      ],
+      "transition": "管线可视化",
+      "restPoints": [
+        {
+          "location": "沙盘旁",
+          "func": "讨论区"
+        }
+      ]
+    },
+    "examples": {
+      "visual": [],
+      "mechanical": [],
+      "data": [],
+      "immersive": [],
+      "interactive": [],
+      "art": []
+    }
+  },
+  "content": {
+    "framework": {
+      "core": [
+        "城市依赖系统协同"
+      ],
+      "data": [
+        {
+          "label": "城市能耗",
+          "value": "全球70%"
+        }
+      ],
+      "concepts": [
+        {
+          "name": "智慧城市",
+          "desc": "数据驱动城市管理"
+        }
+      ],
+      "stories": [
+        {
+          "person": "城市规划师",
+          "story": "城市设计思考"
+        }
+      ],
+      "timeline": [
+        {
+          "time": "19世纪",
+          "event": "现代城市形成"
+        }
+      ],
+      "geography": [
+        {
+          "region": "全球",
+          "feature": "城市化"
+        }
+      ]
+    },
+    "levels": {
+      "l1": [
+        "城市系统"
+      ],
+      "l2": [
+        "系统协同"
+      ],
+      "l3": [
+        "管理模型"
+      ],
+      "l4": [
+        "复杂系统"
+      ]
+    },
+    "carriers": {
+      "boards": "20-25块",
+      "videos": [
+        {
+          "type": "城市动画",
+          "duration": 4
+        }
+      ],
+      "interactive": [
+        {
+          "func": "系统调度",
+          "interface": "多点触控"
+        }
+      ],
+      "objects": [
+        {
+          "name": "城市模型",
+          "type": "沙盘"
+        }
+      ],
+      "visualization": [
+        {
+          "data": "系统流",
+          "form": "动态网络"
+        }
+      ]
+    },
+    "tactics": {
+      "suspense": [
+        "如果停电会怎样?"
+      ],
+      "contrast": [
+        "正常vs故障"
+      ],
+      "analogy": [
+        "城市=生命体"
+      ],
+      "plot": "城市的一天",
+      "resonance": [
+        "城市居民视角"
+      ]
+    }
+  },
+  "experience": {
+    "goals": {
+      "cognitive": "理解城市运转",
+      "emotional": "责任感",
+      "behavioral": "节能意识",
+      "social": "公共议题讨论"
+    },
+    "design": {
+      "senses": [
+        {
+          "sense": "视觉",
+          "experience": "城市灯光联动"
+        }
+      ],
+      "rhythm": "平稳",
+      "surprise": [
+        "系统连锁反应"
+      ],
+      "memory": [
+        "城市故障模拟"
+      ],
+      "photo": [
+        "城市中控台"
+      ]
+    },
+    "interaction": {
+      "observation": [],
+      "operation": [],
+      "inquiry": [],
+      "creation": [],
+      "share": []
+    },
+    "participation": {
+      "individual": 3,
+      "group": 4,
+      "family": 4,
+      "community": 3,
+      "continuous": "城市议题平台"
+    },
+    "emotion": {
+      "start": "熟悉",
+      "path": "熟悉→理解→责任",
+      "climax": "系统崩溃模拟",
+      "end": "行动",
+      "memory": "我属于这座城市"
+    }
+  },
+  "evaluation": {
+    "indicators": {
+      "understanding": 0.86,
+      "satisfaction": 0.9,
+      "duration": 45,
+      "depth": "3.9/5",
+      "behaviorChange": 0.45,
+      "socialShare": 0.7
+    },
+    "methods": {
+      "observation": "互动频次",
+      "interview": "",
+      "questionnaire": "",
+      "tracking": [
+        "沙盘操作"
+      ],
+      "focusGroup": ""
+    },
+    "iteration": {
+      "versions": [
+        {
+          "version": "1.2",
+          "change": "增加生活案例"
+        }
+      ],
+      "success": [
+        "代入感强"
+      ],
+      "failure": [
+        "技术信息偏多"
+      ],
+      "suggestions": "简化术语",
+      "todos": [
+        "儿童导览"
+      ]
+    },
+    "references": {
+      "similar": [],
+      "global": [
+        {
+          "country": "日本",
+          "case": "未来城市展"
+        }
+      ],
+      "awards": [],
+      "academic": []
+    },
+    "status": {
+      "maturity": "应用阶段",
+      "count": 6,
+      "agencies": [
+        "城市规划馆"
+      ],
+      "date": "2025-08-01",
+      "report": ""
+    }
+  },
+  "id": "3cb85ab6-6e01-4276-8d43-88a1ee288c17",
+  "updatedAt": "2026-01-07T08:22:10.410Z"
+}

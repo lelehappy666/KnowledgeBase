@@ -1,0 +1,194 @@
+{
+  "name": "杠杆平衡原理",
+  "basic": {
+    "aliases": [
+      "杠杆原理"
+    ],
+    "enName": "Principle of Lever",
+    "abstract": "力与力臂的乘积相等时，杠杆处于平衡状态",
+    "history": "阿基米德提出“给我一个支点，我能撬动地球”"
+  },
+  "classification": {
+    "category": "物理",
+    "subCategory": "力学",
+    "crossDiscipline": [
+      "机械工程",
+      "工程设计"
+    ],
+    "knowledgeSystem": "经典物理",
+    "difficultyLevel": "入门级"
+  },
+  "education": {
+    "gradeLevel": [
+      "小学",
+      "初中"
+    ],
+    "gradeSpecific": [
+      "五年级",
+      "八年级"
+    ],
+    "curriculum": {
+      "standard": [
+        {
+          "version": "人教版",
+          "grade": "5",
+          "chapter": "简单机械"
+        }
+      ],
+      "requirements": "理解省力、省距离原理",
+      "knowledgePointId": "PHY-05-01-01",
+      "coreLiteracy": [
+        "科学实践"
+      ],
+      "abilityGoals": [
+        "判断杠杆类型",
+        "解释生活中的杠杆"
+      ],
+      "cognitiveLevel": "理解"
+    },
+    "teaching": {
+      "misconceptions": [
+        "杠杆一定省力"
+      ],
+      "difficulties": "力臂概念",
+      "suggestions": "实物操作演示",
+      "safety": "防止重物坠落"
+    }
+  },
+  "exhibitRelation": {
+    "exhibitability": "非常适合展示",
+    "suitableTypes": [],
+    "existingCases": [],
+    "creativeIdeas": [
+      {
+        "name": "平衡挑战台",
+        "desc": "调节支点实现平衡"
+      }
+    ],
+    "design": {
+      "visualStrategy": "力臂长度直观对比",
+      "interactionPoints": [
+        "移动支点",
+        "添加砝码"
+      ],
+      "experiencePoints": [
+        "成就感:找到平衡"
+      ],
+      "techPath": [
+        "机械结构",
+        "重量传感"
+      ]
+    },
+    "difficulty": {
+      "understanding": 2,
+      "operation": 2,
+      "immersion": 3,
+      "memory": 4
+    }
+  },
+  "activity": {
+    "curriculum": {
+      "theme": "生活中的杠杆",
+      "type": [
+        "实验课"
+      ],
+      "duration": "40分钟",
+      "location": [
+        "教室",
+        "展厅"
+      ],
+      "audienceSize": "10-30人"
+    },
+    "project": {
+      "theme": "设计省力工具",
+      "cycle": "1周",
+      "drivingQuestion": "怎样更省力地完成工作？",
+      "outcome": [
+        "杠杆工具模型"
+      ],
+      "evaluationRubric": ""
+    },
+    "resources": {
+      "ppt": "",
+      "guide": "",
+      "manual": "",
+      "video": "",
+      "materials": "",
+      "equipment": [
+        {
+          "name": "杠杆实验器",
+          "count": 3
+        }
+      ],
+      "cost": 300
+    }
+  },
+  "crossDisciplinary": {
+    "steam": {
+      "s": [
+        "力的平衡"
+      ],
+      "t": [
+        "机械结构"
+      ],
+      "e": [
+        "工程设计"
+      ],
+      "a": [
+        "结构美感"
+      ],
+      "m": [
+        "乘法关系"
+      ]
+    },
+    "application": {
+      "daily": [
+        "跷跷板",
+        "撬棍"
+      ],
+      "industrial": [
+        "机械臂"
+      ],
+      "research": [
+        "机械优化"
+      ],
+      "medical": [
+        "手术器械"
+      ],
+      "military": [
+        "工程装备"
+      ]
+    },
+    "frontier": {
+      "research": "智能机械结构",
+      "unsolved": [],
+      "trends": "仿生机械"
+    }
+  },
+  "evaluation": {
+    "teaching": {
+      "indicators": [
+        "理解力臂关系"
+      ],
+      "methods": [
+        "操作观察"
+      ],
+      "tools": "",
+      "data": []
+    },
+    "exhibit": {
+      "effect": 4,
+      "feedback": "操作直观",
+      "suggestions": "增加难度分级"
+    },
+    "content": {
+      "accuracy": "已验证",
+      "timeliness": "长期有效",
+      "completeness": 5,
+      "utility": 5,
+      "popularity": 4
+    }
+  },
+  "id": "1828e0f2-35d1-40b3-8ebd-0cfc651ca6f3",
+  "updatedAt": "2026-01-07T07:44:02.657Z"
+}
