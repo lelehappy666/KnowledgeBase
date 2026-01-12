@@ -41,6 +41,12 @@ export function Navbar() {
               展项研发方法论
             </Link>
             <Link
+              href="/online-cases"
+              className="transition-colors hover:text-foreground/80 text-foreground/60 font-medium"
+            >
+              在线案例
+            </Link>
+            <Link
               href="/gallery"
               className="transition-colors hover:text-foreground/80 text-foreground/60 font-medium"
             >
@@ -76,6 +82,7 @@ export function Navbar() {
               <Link href="/content" className="text-lg font-medium">展项内容知识库</Link>
               <Link href="/technical" className="text-lg font-medium">展品技术与工程知识库</Link>
               <Link href="/methodology" className="text-lg font-medium">展项研发方法论</Link>
+              <Link href="/online-cases" className="text-lg font-medium">在线案例</Link>
               <Link href="/gallery" className="text-lg font-medium">浏览展品</Link>
               <Link href="/admin" className="text-lg font-medium text-primary">管理后台</Link>
             </nav>
