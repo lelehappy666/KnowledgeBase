@@ -5,6 +5,7 @@ export interface ParsedCaseData {
   content: string; // JSON string or HTML
   platform: string;
   sourceUrl: string;
+  images?: string[]; // Optional list of candidate images (e.g. for Behance)
 }
 
 export interface CaseParser {

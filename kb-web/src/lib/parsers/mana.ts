@@ -12,7 +12,8 @@ export class ManaParser implements CaseParser {
   private extractFullDetail(html: string): string {
     if (!html) return "";
     
-    const $ = cheerio.load(html, { decodeEntities: true });
+    // Load HTML with Cheerio - XML mode false for HTML
+    const $ = cheerio.load(html, { xml: false });
 
     // 1. Remove non-visible elements
     $('script, style, meta, link, iframe').remove();
@@ -47,7 +48,7 @@ export class ManaParser implements CaseParser {
     let firstPart = parts[0];
 
     // 2. Clean up the HTML in this first part
-    const $ = cheerio.load(firstPart, { decodeEntities: true });
+    const $ = cheerio.load(firstPart, { xml: false });
     $('script, style, meta, link, iframe').remove();
     
     return $.text().trim();

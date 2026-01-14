@@ -23,10 +23,12 @@ export default async function OnlineCaseDetailPage({ params }: PageProps) {
   // Parse content to get videoUrl and fullDescription if available
   let videoUrl = "";
   let fullDescription = "";
+  let projectModulesHtml = "";
   try {
     const contentJson = JSON.parse(onlineCase.content || "{}");
     videoUrl = contentJson.videoUrl || "";
     fullDescription = contentJson.rawDescription || "";
+    projectModulesHtml = contentJson.projectModulesHtml || "";
   } catch (e) {
     console.error("Failed to parse content JSON", e);
   }
@@ -41,6 +43,62 @@ export default async function OnlineCaseDetailPage({ params }: PageProps) {
       descriptionLength: displayDescription?.length,
       videoUrl: videoUrl
   });
+
+  // CUSTOM LAYOUT FOR BEHANCE
+  if (onlineCase.platform === 'BEHANCE') {
+      return (
+        <div className="container mx-auto py-8 max-w-screen-xl">
+           {/* Top Navigation Row */}
+           <div className="flex items-center justify-between mb-8">
+            <Link href="/online-cases">
+              <Button variant="outline">
+                <ArrowLeft className="mr-2 h-4 w-4" />
+                返回列表
+              </Button>
+            </Link>
+            
+            <a href={onlineCase.sourceUrl} target="_blank" rel="noopener noreferrer">
+              <Button>
+                <ExternalLink className="mr-2 h-4 w-4" />
+                访问原网页
+              </Button>
+            </a>
+          </div>
+
+           {/* Custom Behance Layout */}
+           <div className="max-w-6xl mx-auto">
+               <h1 className="text-3xl font-bold tracking-tight lg:text-5xl text-center mb-4">
+                   {onlineCase.title}
+               </h1>
+               
+               <div className="flex items-center justify-center gap-2 text-muted-foreground mb-12">
+                   <span className="uppercase tracking-wider text-sm font-semibold text-primary">
+                       {onlineCase.platform}
+                   </span>
+                   <span>•</span>
+                   <span className="text-sm">
+                       {onlineCase.createdAt.toLocaleDateString()}
+                   </span>
+               </div>
+               
+               {projectModulesHtml ? (
+                   <div 
+                       id="behance-modules"
+                       // Remove strict width constraints to respect original layout
+                       // Only ensure max-width to prevent overflow
+                       className="behance-content [&_.project-module]:mb-8"
+                       dangerouslySetInnerHTML={{ __html: projectModulesHtml }}
+                   />
+               ) : (
+                   <div className="text-center text-muted-foreground py-20 bg-muted/20 rounded-xl">
+                       <p className="mb-4">暂无详细内容预览</p>
+                       <p className="text-sm">请点击右上角访问原网页查看</p>
+                   </div>
+               )}
+           </div>
+        </div>
+      );
+  }
 
   return (
     <div className="container mx-auto py-8 max-w-screen-xl">

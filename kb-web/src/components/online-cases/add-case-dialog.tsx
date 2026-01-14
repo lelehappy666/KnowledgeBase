@@ -21,14 +21,15 @@ import Image from "next/image";
 type Step = "SELECT_PLATFORM" | "INPUT_URL" | "PREVIEW";
 type Platform = "MANA" | "BEHANCE" | "YOUTUBE" | "XIAOHONGSHU";
 
-interface ParsedData {
-  title: string;
-  description: string;
-  coverImage: string;
-  content: string;
-  platform: Platform;
-  sourceUrl: string;
-}
+  interface ParsedData {
+    title: string;
+    description: string;
+    coverImage: string;
+    content: string;
+    platform: Platform;
+    sourceUrl: string;
+    images?: string[];
+  }
 
 const PLATFORMS: { id: Platform; name: string; icon: any; enabled: boolean }[] = [
   { id: "MANA", name: "Mana", icon: Globe, enabled: true },
@@ -176,6 +177,27 @@ export function AddOnlineCaseDialog() {
                   </div>
                 )}
               </div>
+
+              {/* Candidate Images Selection (Behance) */}
+              {parsedData.images && parsedData.images.length > 1 && (
+                  <div className="space-y-2">
+                      <Label>选择封面图 (点击切换)</Label>
+                      <div className="grid grid-cols-4 gap-2 max-h-[120px] overflow-y-auto p-1 border rounded-md">
+                          {parsedData.images.map((img, idx) => (
+                              <button
+                                  key={idx}
+                                  type="button"
+                                  onClick={() => setParsedData({ ...parsedData, coverImage: img })}
+                                  className={`relative aspect-video rounded overflow-hidden border-2 ${parsedData.coverImage === img ? 'border-primary' : 'border-transparent'}`}
+                              >
+                                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                                  <img src={img} alt={`Candidate ${idx}`} className="w-full h-full object-cover" />
+                              </button>
+                          ))}
+                      </div>
+                  </div>
+              )}
+
               <div className="space-y-2">
                 <Label>标题</Label>
                 <Input
